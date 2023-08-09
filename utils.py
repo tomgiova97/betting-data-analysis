@@ -1,4 +1,5 @@
 import pandas as pd
+from team_data import TeamData
 
 DATE = 'Date'
 MATCH = 'Match'
@@ -68,11 +69,13 @@ def calc_team_data(team_name, team_df):
         exp_over_2_5 += exp_outcomes[3]
         exp_under_2_5 += exp_outcomes[4]
 
+        # Evaluating the number of goals scored 
         if (is_over_threshold(2.5, row[HOME_GOALS], row[AWAY_GOALS])):
             over_2_5 += 1
         else: 
             under_2_5 += 1    
 
+        # Evaluating the match outcome 
         if (is_score_draw(row[HOME_GOALS], row[AWAY_GOALS])):
             draws+=1
         else:
@@ -81,9 +84,10 @@ def calc_team_data(team_name, team_df):
             else :
                 defeats += 1   
 
-   ## Collect all the data found to create a TeamDate object (review the constructor and add to the csv file)
+   ## Collect all the data found to create a TeamDate object
+    team_data = TeamData(team_name, wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5 )
 
-    return 0
+    return team_data
 
 def gen_df_columns_dictionary(df, col_names):
     col_dictionary = {}
