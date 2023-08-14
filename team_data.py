@@ -1,7 +1,8 @@
 class TeamData:
 
-    def __init__(self, team_name,  wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5):
+    def __init__(self, team_name, dates, wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5):
         self.team_name = team_name
+        self.dates = dates
         self.wins = wins
         self.defeats = defeats
         self.draws = draws
