@@ -1,22 +1,23 @@
-import pandas as pd
 from team_data import TeamData
 
-DATE = 'Date'
-MATCH = 'Match'
-HOME_GOALS = 'Home Goals'
-AWAY_GOALS = 'Away Goals'
-HOME_WIN_ODDS = '1 (Home Win) Odds'
-DRAW_ODDS = 'X (Draw) Odds'
-AWAY_WIN_ODDS = '2 (Away Win) Odds'
-UNDER_2_5_ODDS = 'Under 2.5 Odds'
-OVER_2_5_ODDS = 'Over 2.5 Odds'
+ID = 'id'
+SPORT_KEY = 'sport_key'
+SPORT_TITLE = 'sport_title'
+COMMENCE_TIME = 'commence_time'
+HOME_TEAM = 'home_team'
+AWAY_TEAM = 'away_team'
+BOOKMAKER_KEY = 'bookmaker_key'
+BOOKMAKER_TITLE = 'bookmaker_title'
+HOME_WIN = 'home_win'
+AWAY_WIN = 'away_win'
+DRAW = 'draw'
+OVER_2_5 = 'over_2_5'
+UNDER_2_5 = 'under_2_5'
+HOME_GOALS = 'home_goals'
+AWAY_GOALS = 'away_goals'
 
-def is_team_home(team_name, match):
-    teams = match.split(' vs ')
-    if (team_name not in teams):
-        raise Exception('Given team name is not present in the given match')
-    else:
-        return team_name==teams[0]
+def is_team_home(team_name, home_team):
+    return team_name == home_team
     
 def is_score_draw(home_goals, away_goals):
     return home_goals == away_goals
@@ -61,10 +62,10 @@ def calc_team_data(team_name, team_df):
     exp_over_2_5 = []
 
     for index, row in team_df.iterrows():
-        dates.append(row[DATE])
-        is_match_home = is_team_home(team_name, row[MATCH])
-        exp_outcomes = calc_expected_outcomes(is_match_home, row[HOME_WIN_ODDS], row[AWAY_WIN_ODDS]
-                                              , row[DRAW_ODDS], row[UNDER_2_5_ODDS], row[OVER_2_5_ODDS])
+        dates.append(row[COMMENCE_TIME])
+        is_match_home = is_team_home(team_name, row[HOME_TEAM])
+        exp_outcomes = calc_expected_outcomes(is_match_home, row[HOME_WIN], row[AWAY_WIN]
+                                              , row[DRAW], row[UNDER_2_5], row[OVER_2_5])
         exp_wins.append(exp_outcomes[0])
         exp_defeats.append(exp_outcomes[1])
         exp_draws.append(exp_outcomes[2])

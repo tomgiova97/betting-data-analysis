@@ -32,6 +32,7 @@ class TeamData:
     def __str__(self):
         attributes = [
             f"team_name: {self.team_name}",
+            f"dates: {self.dates}",
             f"wins: {self.wins}",
             f"defeats: {self.defeats}",
             f"draws: {self.draws}",
