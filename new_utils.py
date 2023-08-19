@@ -1,4 +1,5 @@
 from team_data import TeamData
+from datetime import datetime
 
 ID = 'id'
 SPORT_KEY = 'sport_key'
@@ -107,4 +108,28 @@ def gen_df_columns_dictionary(df, col_names):
         col_dictionary[col_names[i]] = col_list[i]
 
     return col_dictionary     
+
+
+def convert_date_format(input_date_string):
+    input_date_format = "%Y-%m-%dT%H:%M:%SZ"
+    output_date_format = "%d/%m/%y"
+    
+    # Convert the input date string to a datetime object
+    input_date = datetime.strptime(input_date_string, input_date_format)
+    
+    # Format the datetime object to the desired output format
+    output_date_string = input_date.strftime(output_date_format)
+    
+    return output_date_string
+
+def compute_list_normalized_cumulative_values(list):
+    norm_cum_list = []
+    cum_sum = 0.
+
+    for i in range(0, len(list)):
+        cum_sum += list[i]
+        norm_cum_list.append(cum_sum/(i+1))
+        
+    return norm_cum_list
+
 
