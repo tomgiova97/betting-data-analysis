@@ -122,14 +122,23 @@ def convert_date_format(input_date_string):
     
     return output_date_string
 
-def compute_list_normalized_cumulative_values(list):
-    norm_cum_list = []
+def calculate_list_cumulative_values(list):
+    cum_list = []
     cum_sum = 0.
 
-    for i in range(0, len(list)):
-        cum_sum += list[i]
-        norm_cum_list.append(cum_sum/(i+1))
-        
-    return norm_cum_list
+    for element in list:
+        cum_sum+=element
+        cum_list.append(cum_sum)
+    return cum_list    
 
+def calculate_normalized_difference(cumulative_list, reference_list):
+    if len(cumulative_list) != len(reference_list):
+        raise Exception("Input lists are not the same size")
+    
+    cumulative_values = calculate_list_cumulative_values(cumulative_list)
+    normalized_diff_list = []
 
+    for i in range(len(cumulative_list)):
+        normalized_diff_list.append(cumulative_values[i] - reference_list[i])
+
+    return normalized_diff_list

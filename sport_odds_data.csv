@@ -36,10 +36,10 @@ bcfa0b05465d67c275b2c33858d2a4e0,soccer_germany_bundesliga,Bundesliga - Germany,
 711ada0aa97c9af08ce1238f6115e3f8,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-26T13:30:00Z,SV Darmstadt 98,Union Berlin,williamhill,William Hill,3.5,2.05,3.5,1.91,1.8,0,0
 64a6fd899510bbe19dd62a92319d919a,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-26T16:30:00Z,Borussia Monchengladbach,Bayer Leverkusen,williamhill,William Hill,3.1,2.1,3.9,1.6,2.25,0,0
 864cf109154834d22549a149cad85290,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-27T13:30:00Z,FSV Mainz 05,Eintracht Frankfurt,williamhill,William Hill,2.5,2.6,3.6,1.67,2.1,0,0
-97705af000bcc12bf976577826e8101b,soccer_italy_serie_a,Serie A - Italy,2023-08-19T16:30:00Z,Empoli,Hellas Verona FC,williamhill,William Hill,2.25,3.2,3.3,2.0,1.73,0.0,0.0
-c3e499c5633fff8cf97a20e6991ac9ca,soccer_italy_serie_a,Serie A - Italy,2023-08-19T16:30:00Z,Frosinone,Napoli,williamhill,William Hill,6.5,1.5,4.5,1.73,2.0,0.0,0.0
-4a2efd82a86382195ae068bf78b9c5e2,soccer_italy_serie_a,Serie A - Italy,2023-08-19T18:45:00Z,Genoa,Fiorentina,williamhill,William Hill,3.6,2.05,3.4,2.05,1.7,0.0,0.0
-b3ab37ca6559f8728e7042b3329c3e38,soccer_italy_serie_a,Serie A - Italy,2023-08-19T18:45:00Z,Inter Milan,Monza,williamhill,William Hill,1.4,7.5,4.75,1.57,2.3,0.0,0.0
+97705af000bcc12bf976577826e8101b,soccer_italy_serie_a,Serie A - Italy,2023-08-19T16:30:00Z,Empoli,Hellas Verona FC,williamhill,William Hill,2.25,3.2,3.3,2.0,1.73,0,1
+c3e499c5633fff8cf97a20e6991ac9ca,soccer_italy_serie_a,Serie A - Italy,2023-08-19T16:30:00Z,Frosinone,Napoli,williamhill,William Hill,6.5,1.5,4.5,1.73,2.0,1,3
+4a2efd82a86382195ae068bf78b9c5e2,soccer_italy_serie_a,Serie A - Italy,2023-08-19T18:45:00Z,Genoa,Fiorentina,williamhill,William Hill,3.6,2.05,3.4,2.05,1.7,1,4
+b3ab37ca6559f8728e7042b3329c3e38,soccer_italy_serie_a,Serie A - Italy,2023-08-19T18:45:00Z,Inter Milan,Monza,williamhill,William Hill,1.4,7.5,4.75,1.57,2.3,2,0
 ceb36663c9bff9fda0619a60e58ebc1b,soccer_italy_serie_a,Serie A - Italy,2023-08-20T16:30:00Z,AS Roma,Salernitana,williamhill,William Hill,1.5,7.0,4.0,2.0,1.73,0.0,0.0
 f5d88450624e02241838ba9da9ee598a,soccer_italy_serie_a,Serie A - Italy,2023-08-20T16:30:00Z,Sassuolo,Atalanta BC,williamhill,William Hill,3.4,2.0,3.7,1.62,2.2,0.0,0.0
 6912d610e0935183bab203412ae44079,soccer_italy_serie_a,Serie A - Italy,2023-08-20T18:45:00Z,Udinese,Juventus,williamhill,William Hill,4.5,1.83,3.4,2.05,1.7,0.0,0.0
