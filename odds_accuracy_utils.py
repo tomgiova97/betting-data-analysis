@@ -28,13 +28,15 @@ def get_bin_index(low_bin_limit, upp_bin_limit, bins_step, value):
         return math.floor(index)
     
 
+# Insert h2h expected and real result for a single event
+# If only_home is True, only the home odds are taken into account 
 def fill_h2h_bins(bins, match_score, home_win_bin_index, away_win_bin_index, draw_bin_index
-              , home_win_odd, away_win_odd, draw_odd):
+              , home_win_odd, away_win_odd, draw_odd, only_home = False):
 
     if (home_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
         bins[home_win_bin_index].append([1./home_win_odd, match_score == "1"])
 
-    if (away_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
+    if ((not only_home) and away_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
         bins[away_win_bin_index].append([1./away_win_odd, match_score == "2"])
 
     if (draw_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT    
