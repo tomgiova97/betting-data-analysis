@@ -27,6 +27,9 @@ def get_bin_index(low_bin_limit, upp_bin_limit, bins_step, value):
         index = round((value - low_bin_limit)/bins_step, 2)
         return math.floor(index)
     
+def get_double_chance_odd(odd_1, odd_2):
+    return (odd_1 * odd_2) / (odd_1 + odd_2)    
+    
 
 # Insert h2h expected and real result for a single event
 # If only_home is True, only the home odds are taken into account 
@@ -54,3 +57,14 @@ def fill_totals_bins(bins, match_total_goals, over_2_5_bin_index, under_2_5_bin_
         bins[under_2_5_bin_index].append([1./under_2_5_odd, match_total_goals < 2.5])
 
     return bins      
+
+
+def fill_double_chance_bins(bins, match_score, d_c_index, d_c_odd, is_double_chance_in):
+
+    if (d_c_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
+        if(is_double_chance_in):
+            bins[d_c_index].append([1./d_c_odd, (match_score == "1" or match_score == "X")])
+        else:
+            bins[d_c_index].append([1./d_c_odd, (match_score == "2" or match_score == "X")])    
+
+    return bins        
