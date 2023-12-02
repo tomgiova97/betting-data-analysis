@@ -20,10 +20,10 @@ c1aefca23a8f75d9932d04f083b0c16a,soccer_spain_la_liga,La Liga - Spain,2023-08-26
 d669a001f525baaaf01743c102eb055b,soccer_spain_la_liga,La Liga - Spain,2023-08-27T19:30:00Z,Athletic Bilbao,Real Betis,williamhill,William Hill,1.91,3.8,3.7,1.85,1.85,4.0,2.0
 cd09dbdc9abbd753656ae75b6f6d4c2a,soccer_spain_la_liga,La Liga - Spain,2023-08-28T17:30:00Z,Getafe,Alavés,williamhill,William Hill,2.2,3.7,3.0,3.0,1.36,1.0,0.0
 20b2db38f83c5be0f6b8c3715cc7fce3,soccer_spain_la_liga,La Liga - Spain,2023-08-28T19:30:00Z,Rayo Vallecano,Atlético Madrid,williamhill,William Hill,4.0,1.91,3.6,2.0,1.73,0.0,7.0
-5bc6d8ff0c88e797b4938b0e166b0689,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-18T18:30:00Z,Werder Bremen,Bayern Munich,williamhill,William Hill,1.29,9.0,6.0,1.36,3.0,0.0,4.0
+5bc6d8ff0c88e797b4938b0e166b0689,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-18T18:30:00Z,Werder Bremen,Bayern Munich,williamhill,William Hill,9.0,1.29,6.0,1.36,3.0,0.0,4.0
 9f5780e39d2af35f8b572ce1382df4c2,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T13:30:00Z,Augsburg,Borussia Monchengladbach,williamhill,William Hill,2.6,2.45,3.7,1.62,2.2,4.0,4.0
 02b225f1d7a16c15dc1c475cb4b9a885,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T13:30:00Z,Bayer Leverkusen,RB Leipzig,williamhill,William Hill,2.4,2.7,3.6,1.7,2.05,3.0,2.0
-2381d3d6bd4743a644316ded92891cab,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T13:30:00Z,VfL Wolfsburg,FC Heidenheim,williamhill,William Hill,5.0,1.57,4.4,1.67,2.1,2.0,0.0
+2381d3d6bd4743a644316ded92891cab,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T13:30:00Z,VfL Wolfsburg,FC Heidenheim,williamhill,William Hill,1.57,5.0,4.4,1.67,2.1,2.0,0.0
 82320b1a7bb3f849b3221e7f7b088822,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T13:30:00Z,TSG Hoffenheim,SC Freiburg,williamhill,William Hill,3.1,2.2,3.6,1.67,2.1,1.0,2.0
 b8a6c71dfb59381b7c7fa5e8b7255cba,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T13:30:00Z,VfB Stuttgart,VfL Bochum,williamhill,William Hill,1.65,4.5,4.33,1.62,2.2,5.0,0.0
 b62d6ff22b6ca17a49616fb384461c10,soccer_germany_bundesliga,Bundesliga - Germany,2023-08-19T16:30:00Z,Borussia Dortmund,FC Koln,williamhill,William Hill,1.4,6.5,5.0,1.44,2.62,1.0,0.0
@@ -127,11 +127,11 @@ e0f7f6510fe50a8d07df0c1a70547308,soccer_epl,EPL,2023-09-03T13:00:00Z,Crystal Pal
 401ad01bcd22fdc8950ce0ea7793fbac,soccer_france_ligue_one,Ligue 1 - France,2023-09-01T19:00:00Z,Nantes,Marseille,williamhill,William Hill,4.0,1.8,3.9,1.73,2.0,1.0,1.0
 b673cae4cc783cf8b8ffc2865b9e678c,soccer_france_ligue_one,Ligue 1 - France,2023-09-02T15:00:00Z,Brest,Rennes,williamhill,William Hill,3.2,2.15,3.6,1.73,2.0,0.0,0.0
 cfcbef7abe356054fc1764d5ae2e78cf,soccer_france_ligue_one,Ligue 1 - France,2023-09-02T19:00:00Z,AS Monaco,RC Lens,williamhill,William Hill,1.91,3.5,4.0,1.57,2.3,3.0,0.0
-0fc4a05a3f8717a479459f7644b4b506,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T11:00:00Z,Toulouse,Clermont,williamhill,William Hill,1.91,3.6,3.8,1.8,1.91,0.0,0.0
-86f3a9d285834a19f6c1128c9b359f6b,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T13:00:00Z,Le Havre,Lorient,williamhill,William Hill,2.75,2.7,3.1,2.2,1.62,0.0,0.0
-5742f3a9ea3aa3a66d89bf7c71d5a89b,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T13:00:00Z,Lille,Montpellier,williamhill,William Hill,1.7,4.2,4.2,1.57,2.3,0.0,0.0
-acce83fd136f653ff6a43f938ec7fe47,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T15:05:00Z,Nice,Strasbourg,williamhill,William Hill,1.91,3.8,3.7,1.91,1.8,0.0,0.0
-812d293ce27ce475b11f80c0f01325bc,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T18:45:00Z,Lyon,Paris Saint Germain,williamhill,William Hill,5.5,1.5,4.8,1.44,2.62,0.0,0.0
+0fc4a05a3f8717a479459f7644b4b506,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T11:00:00Z,Toulouse,Clermont,williamhill,William Hill,1.91,3.6,3.8,1.8,1.91,2.0,2.0
+86f3a9d285834a19f6c1128c9b359f6b,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T13:00:00Z,Le Havre,Lorient,williamhill,William Hill,2.75,2.7,3.1,2.2,1.62,3.0,0.0
+5742f3a9ea3aa3a66d89bf7c71d5a89b,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T13:00:00Z,Lille,Montpellier,williamhill,William Hill,1.7,4.2,4.2,1.57,2.3,1.0,0.0
+acce83fd136f653ff6a43f938ec7fe47,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T15:05:00Z,Nice,Strasbourg,williamhill,William Hill,1.91,3.8,3.7,1.91,1.8,2.0,0.0
+812d293ce27ce475b11f80c0f01325bc,soccer_france_ligue_one,Ligue 1 - France,2023-09-03T18:45:00Z,Lyon,Paris Saint Germain,williamhill,William Hill,5.5,1.5,4.8,1.44,2.62,1.0,4.0
 81bff489e113b0de5d3d017f6197afd8,soccer_spain_la_liga,La Liga - Spain,2023-09-01T17:30:00Z,Cádiz CF,Villarreal,williamhill,William Hill,3.0,2.25,3.5,1.8,1.91,3.0,1.0
 9697fc9b39cae475dad771f353d5e05b,soccer_spain_la_liga,La Liga - Spain,2023-09-01T19:30:00Z,Almería,Celta Vigo,williamhill,William Hill,2.38,2.8,3.5,1.8,1.91,2.0,3.0
 474cba27c3b62467357c5690952a42f0,soccer_spain_la_liga,La Liga - Spain,2023-09-02T12:00:00Z,Real Sociedad,Granada CF,williamhill,William Hill,1.4,8.0,4.5,1.8,1.91,5.0,3.0
@@ -288,24 +288,24 @@ e5b83f9cc318a32998a5c0ad27be8e69,soccer_spain_la_liga,La Liga - Spain,2023-10-01
 02e6b2d9fb606f89f4d5c68efdaeb55d,soccer_spain_la_liga,La Liga - Spain,2023-10-01T19:00:00Z,Real Betis,Valencia,williamhill,William Hill,2.25,3.2,3.3,2.1,1.67,3.0,0.0
 ab07823b2057cd42e98387192348bb5c,soccer_spain_la_liga,La Liga - Spain,2023-10-02T19:00:00Z,Las Palmas,Celta Vigo,williamhill,William Hill,2.45,2.9,3.25,2.25,1.6,0.0,0.0
 d99adf464a724ad37f05fd493321573b,soccer_spain_la_liga,La Liga - Spain,2023-10-06T19:00:00Z,Athletic Bilbao,Almería,williamhill,William Hill,1.44,6.5,4.6,1.67,2.1,3.0,0.0
-a8ad4f87357172ecf0c87a79fa8e3634,soccer_spain_la_liga,La Liga - Spain,2023-10-07T12:00:00Z,Cádiz CF,Girona,williamhill,William Hill,3.25,2.2,3.4,1.8,1.91,0.0,0.0
-3d7a253449aeee2591f3232bb91938cb,soccer_spain_la_liga,La Liga - Spain,2023-10-07T14:15:00Z,Real Madrid,CA Osasuna,williamhill,William Hill,1.29,9.5,5.5,1.53,2.38,0.0,0.0
-8ef9f6a07f5b851fefc84376d82be641,soccer_spain_la_liga,La Liga - Spain,2023-10-07T16:30:00Z,Mallorca,Valencia,williamhill,William Hill,2.4,3.2,3.0,2.5,1.5,0.0,0.0
-d16059808b8cdb09294f7af60b844d20,soccer_spain_la_liga,La Liga - Spain,2023-10-07T19:00:00Z,Sevilla,Rayo Vallecano,williamhill,William Hill,1.73,4.75,3.7,1.85,1.85,0.0,0.0
-e04d7304cfd81539ef2d770f9680c3e7,soccer_spain_la_liga,La Liga - Spain,2023-10-08T12:00:00Z,Villarreal,Las Palmas,williamhill,William Hill,1.6,5.5,4.0,1.7,2.05,0.0,0.0
-123f62b557267bc2fe5e949b90ecfb23,soccer_spain_la_liga,La Liga - Spain,2023-10-08T14:15:00Z,Atlético Madrid,Real Sociedad,williamhill,William Hill,1.85,4.33,3.4,2.0,1.73,0.0,0.0
-47b5fa9f07b47ab797d64f2566a2a4a2,soccer_spain_la_liga,La Liga - Spain,2023-10-08T16:30:00Z,Alavés,Real Betis,williamhill,William Hill,2.75,2.62,3.2,2.25,1.6,0.0,0.0
-e4d19ede4cba896cf8dca5fd26d2bb08,soccer_spain_la_liga,La Liga - Spain,2023-10-08T16:30:00Z,Celta Vigo,Getafe,williamhill,William Hill,2.0,4.0,3.2,2.5,1.5,0.0,0.0
-eb592ef4017ad8965ffd514d07c5a355,soccer_spain_la_liga,La Liga - Spain,2023-10-08T19:00:00Z,Granada CF,Barcelona,williamhill,William Hill,7.0,1.4,5.0,1.4,2.75,0.0,0.0
+a8ad4f87357172ecf0c87a79fa8e3634,soccer_spain_la_liga,La Liga - Spain,2023-10-07T12:00:00Z,Cádiz CF,Girona,williamhill,William Hill,3.25,2.2,3.4,1.8,1.91,0.0,1.0
+3d7a253449aeee2591f3232bb91938cb,soccer_spain_la_liga,La Liga - Spain,2023-10-07T14:15:00Z,Real Madrid,CA Osasuna,williamhill,William Hill,1.29,9.5,5.5,1.53,2.38,4.0,0.0
+8ef9f6a07f5b851fefc84376d82be641,soccer_spain_la_liga,La Liga - Spain,2023-10-07T16:30:00Z,Mallorca,Valencia,williamhill,William Hill,2.4,3.2,3.0,2.5,1.5,1.0,1.0
+d16059808b8cdb09294f7af60b844d20,soccer_spain_la_liga,La Liga - Spain,2023-10-07T19:00:00Z,Sevilla,Rayo Vallecano,williamhill,William Hill,1.73,4.75,3.7,1.85,1.85,2.0,2.0
+e04d7304cfd81539ef2d770f9680c3e7,soccer_spain_la_liga,La Liga - Spain,2023-10-08T12:00:00Z,Villarreal,Las Palmas,williamhill,William Hill,1.6,5.5,4.0,1.7,2.05,1.0,2.0
+123f62b557267bc2fe5e949b90ecfb23,soccer_spain_la_liga,La Liga - Spain,2023-10-08T14:15:00Z,Atlético Madrid,Real Sociedad,williamhill,William Hill,1.85,4.33,3.4,2.0,1.73,2.0,1.0
+47b5fa9f07b47ab797d64f2566a2a4a2,soccer_spain_la_liga,La Liga - Spain,2023-10-08T16:30:00Z,Alavés,Real Betis,williamhill,William Hill,2.75,2.62,3.2,2.25,1.6,1.0,1.0
+e4d19ede4cba896cf8dca5fd26d2bb08,soccer_spain_la_liga,La Liga - Spain,2023-10-08T16:30:00Z,Celta Vigo,Getafe,williamhill,William Hill,2.0,4.0,3.2,2.5,1.5,2.0,2.0
+eb592ef4017ad8965ffd514d07c5a355,soccer_spain_la_liga,La Liga - Spain,2023-10-08T19:00:00Z,Granada CF,Barcelona,williamhill,William Hill,7.0,1.4,5.0,1.4,2.75,2.0,2.0
 755f374847e47727a1fb5478553d0653,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-06T18:30:00Z,Borussia Monchengladbach,FSV Mainz 05,williamhill,William Hill,2.15,3.0,3.9,1.62,2.2,2.0,2.0
-ef8d27d561a6296780b235231269bb3c,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,Augsburg,SV Darmstadt 98,williamhill,William Hill,1.75,4.33,3.9,1.67,2.1,0.0,0.0
-40cf285f0742409c941e6292763331ce,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,Borussia Dortmund,Union Berlin,williamhill,William Hill,1.67,4.6,4.2,1.6,2.25,0.0,0.0
+ef8d27d561a6296780b235231269bb3c,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,Augsburg,SV Darmstadt 98,williamhill,William Hill,1.75,4.33,3.9,1.67,2.1,1.0,2.0
+40cf285f0742409c941e6292763331ce,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,Borussia Dortmund,Union Berlin,williamhill,William Hill,1.67,4.6,4.2,1.6,2.25,4.0,2.0
 2bacc7adca80cbfc863e45f922e45c78,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,RB Leipzig,VfL Bochum,williamhill,William Hill,1.29,9.5,5.8,1.36,3.0,0.0,0.0
-f4ce048780431e3c1748e6bc0f8c41bc,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,VfB Stuttgart,VfL Wolfsburg,williamhill,William Hill,1.95,3.6,3.75,1.62,2.2,0.0,0.0
-d7e77cf85f376458386171a49dfae8b2,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T16:30:00Z,Werder Bremen,TSG Hoffenheim,williamhill,William Hill,2.4,2.6,3.9,1.44,2.62,0.0,0.0
-1504e33ab0a7cb6d8d408210722d1e8a,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-08T13:30:00Z,Bayer Leverkusen,FC Koln,williamhill,William Hill,1.29,9.5,5.5,1.44,2.62,0.0,0.0
-231f92c473ac8d03477dfeedb13aa663,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-08T15:30:00Z,Bayern Munich,SC Freiburg,williamhill,William Hill,1.14,17.0,8.5,1.25,3.75,0.0,0.0
-34470cd2b873e562248ad8b97464bb41,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-08T17:30:00Z,Eintracht Frankfurt,FC Heidenheim,williamhill,William Hill,1.8,4.0,4.0,1.7,2.05,0.0,0.0
+f4ce048780431e3c1748e6bc0f8c41bc,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T13:30:00Z,VfB Stuttgart,VfL Wolfsburg,williamhill,William Hill,1.95,3.6,3.75,1.62,2.2,3.0,1.0
+d7e77cf85f376458386171a49dfae8b2,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-07T16:30:00Z,Werder Bremen,TSG Hoffenheim,williamhill,William Hill,2.4,2.6,3.9,1.44,2.62,2.0,3.0
+1504e33ab0a7cb6d8d408210722d1e8a,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-08T13:30:00Z,Bayer Leverkusen,FC Koln,williamhill,William Hill,1.29,9.5,5.5,1.44,2.62,3.0,0.0
+231f92c473ac8d03477dfeedb13aa663,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-08T15:30:00Z,Bayern Munich,SC Freiburg,williamhill,William Hill,1.14,17.0,8.5,1.25,3.75,3.0,0.0
+34470cd2b873e562248ad8b97464bb41,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-08T17:30:00Z,Eintracht Frankfurt,FC Heidenheim,williamhill,William Hill,1.8,4.0,4.0,1.7,2.05,2.0,0.0
 02b9662e81d39856f3282a46a59512f9,soccer_italy_serie_a,Serie A - Italy,2023-09-30T13:00:00Z,Lecce,Napoli,williamhill,William Hill,4.8,1.7,3.75,1.91,1.8,0.0,4.0
 8e25e14a520ad2e140ee2e0fb4531b45,soccer_italy_serie_a,Serie A - Italy,2023-09-30T16:00:00Z,AC Milan,Lazio,williamhill,William Hill,1.73,4.75,3.7,1.91,1.8,2.0,0.0
 5893421ecc4e0a8cb02866d9b16fe91d,soccer_italy_serie_a,Serie A - Italy,2023-09-30T18:45:00Z,Salernitana,Inter Milan,williamhill,William Hill,7.5,1.4,4.75,1.67,2.1,0.0,4.0
@@ -318,14 +318,14 @@ fac4d163d31210600738fa236299bd43,soccer_italy_serie_a,Serie A - Italy,2023-10-01
 23a5ce8f5ae44ad71cc81b9d9a305d6c,soccer_italy_serie_a,Serie A - Italy,2023-10-02T18:45:00Z,Fiorentina,Cagliari,williamhill,William Hill,1.44,7.0,4.4,1.73,2.0,0.0,0.0
 f8043b446cbb4197d5fe0c1e5931fa25,soccer_italy_serie_a,Serie A - Italy,2023-10-06T16:30:00Z,Empoli,Udinese,williamhill,William Hill,2.75,2.5,3.4,1.91,1.8,0.0,0.0
 2372c21825a6a5490860fa4b7e44f230,soccer_italy_serie_a,Serie A - Italy,2023-10-06T18:45:00Z,Lecce,Sassuolo,williamhill,William Hill,2.45,2.7,3.6,1.73,2.0,1.0,1.0
-60c0d69b64fc94ce1bf2768f84d90c45,soccer_italy_serie_a,Serie A - Italy,2023-10-07T13:00:00Z,Inter Milan,Bologna,williamhill,William Hill,1.29,9.5,5.5,1.57,2.3,0.0,0.0
-d59a7b2705f1c65b9baa34728bdad8c8,soccer_italy_serie_a,Serie A - Italy,2023-10-07T16:00:00Z,Juventus,Torino,williamhill,William Hill,1.91,4.6,3.2,2.3,1.57,0.0,0.0
-98e843fae0d0adda2ba85b6245230075,soccer_italy_serie_a,Serie A - Italy,2023-10-07T18:45:00Z,Genoa,AC Milan,williamhill,William Hill,4.4,1.83,3.5,2.1,1.67,0.0,0.0
-d176f9a8151c1cefbff0026c813478de,soccer_italy_serie_a,Serie A - Italy,2023-10-08T10:30:00Z,Monza,Salernitana,williamhill,William Hill,1.65,5.0,3.9,1.8,1.91,0.0,0.0
-d8229d1fc7e7b821afe8a033b092abba,soccer_italy_serie_a,Serie A - Italy,2023-10-08T13:00:00Z,Lazio,Atalanta BC,williamhill,William Hill,2.75,2.5,3.4,1.85,1.85,0.0,0.0
-7f2dd7e7d89ecbeed4207d2eb4f286ea,soccer_italy_serie_a,Serie A - Italy,2023-10-08T13:00:00Z,Frosinone,Hellas Verona FC,williamhill,William Hill,2.3,3.1,3.3,2.0,1.73,0.0,0.0
-2bad542ce5e193a6adcc454786e644e3,soccer_italy_serie_a,Serie A - Italy,2023-10-08T16:00:00Z,Cagliari,AS Roma,williamhill,William Hill,4.6,1.8,3.5,2.2,1.62,0.0,0.0
-1a265a97d57effc5f8ed049872274e7a,soccer_italy_serie_a,Serie A - Italy,2023-10-08T18:45:00Z,Napoli,Fiorentina,williamhill,William Hill,1.57,5.5,4.2,1.6,2.25,0.0,0.0
+60c0d69b64fc94ce1bf2768f84d90c45,soccer_italy_serie_a,Serie A - Italy,2023-10-07T13:00:00Z,Inter Milan,Bologna,williamhill,William Hill,1.29,9.5,5.5,1.57,2.3,2.0,2.0
+d59a7b2705f1c65b9baa34728bdad8c8,soccer_italy_serie_a,Serie A - Italy,2023-10-07T16:00:00Z,Juventus,Torino,williamhill,William Hill,1.91,4.6,3.2,2.3,1.57,2.0,0.0
+98e843fae0d0adda2ba85b6245230075,soccer_italy_serie_a,Serie A - Italy,2023-10-07T18:45:00Z,Genoa,AC Milan,williamhill,William Hill,4.4,1.83,3.5,2.1,1.67,0.0,1.0
+d176f9a8151c1cefbff0026c813478de,soccer_italy_serie_a,Serie A - Italy,2023-10-08T10:30:00Z,Monza,Salernitana,williamhill,William Hill,1.65,5.0,3.9,1.8,1.91,3.0,0.0
+d8229d1fc7e7b821afe8a033b092abba,soccer_italy_serie_a,Serie A - Italy,2023-10-08T13:00:00Z,Lazio,Atalanta BC,williamhill,William Hill,2.75,2.5,3.4,1.85,1.85,3.0,2.0
+7f2dd7e7d89ecbeed4207d2eb4f286ea,soccer_italy_serie_a,Serie A - Italy,2023-10-08T13:00:00Z,Frosinone,Hellas Verona FC,williamhill,William Hill,2.3,3.1,3.3,2.0,1.73,2.0,1.0
+2bad542ce5e193a6adcc454786e644e3,soccer_italy_serie_a,Serie A - Italy,2023-10-08T16:00:00Z,Cagliari,AS Roma,williamhill,William Hill,4.6,1.8,3.5,2.2,1.62,1.0,4.0
+1a265a97d57effc5f8ed049872274e7a,soccer_italy_serie_a,Serie A - Italy,2023-10-08T18:45:00Z,Napoli,Fiorentina,williamhill,William Hill,1.57,5.5,4.2,1.6,2.25,1.0,3.0
 9d35082081b6450749fb6f1cc908f57b,soccer_epl,EPL,2023-09-30T11:30:00Z,Aston Villa,Brighton and Hove Albion,williamhill,William Hill,2.6,2.4,3.9,1.4,2.75,6.0,1.0
 7d4220e8bf528f818408301b517fbee8,soccer_epl,EPL,2023-09-30T14:00:00Z,Bournemouth,Arsenal,williamhill,William Hill,5.5,1.53,4.5,1.53,2.38,0.0,4.0
 bf0182d3f58394917fe1d87dd5d46fb0,soccer_epl,EPL,2023-09-30T14:00:00Z,Newcastle United,Burnley,williamhill,William Hill,1.3,9.5,5.5,1.5,2.5,2.0,0.0
@@ -337,70 +337,307 @@ c1d930d000d60dec48b06ccd2ce5a9d7,soccer_epl,EPL,2023-09-30T14:00:00Z,West Ham Un
 d808239f478b81bbbd8afc914dcdc548,soccer_epl,EPL,2023-10-01T13:00:00Z,Nottingham Forest,Brentford,williamhill,William Hill,2.75,2.5,3.4,2.05,1.7,1.0,1.0
 7bc7e53ac44c6bd3cbe692b0d46e76fe,soccer_epl,EPL,2023-10-02T19:00:00Z,Fulham,Chelsea,williamhill,William Hill,3.7,2.0,3.5,1.85,1.85,0.0,0.0
 515f74c17c4d3598c982646ded5e51a9,soccer_epl,EPL,2023-10-03T18:30:00Z,Luton,Burnley,williamhill,William Hill,2.9,2.4,3.3,2.05,1.7,0.0,0.0
-5528d0b167ff7ae068b6d0478eb997c7,soccer_epl,EPL,2023-10-07T11:30:00Z,Luton,Tottenham Hotspur,williamhill,William Hill,7.0,1.4,4.8,1.44,2.62,0.0,0.0
-14f4848838e0003cf90b04e2b050bb07,soccer_epl,EPL,2023-10-07T14:00:00Z,Everton,Bournemouth,williamhill,William Hill,1.91,3.8,3.7,1.7,2.05,0.0,0.0
-ffaee6d3d0a33a53aaa286624422cd11,soccer_epl,EPL,2023-10-07T14:00:00Z,Manchester United,Brentford,williamhill,William Hill,1.65,4.8,4.0,1.62,2.2,0.0,0.0
-5ca0d427c6074c5081f434511430569c,soccer_epl,EPL,2023-10-07T14:00:00Z,Burnley,Chelsea,williamhill,William Hill,4.4,1.75,3.8,1.7,2.05,0.0,0.0
-5e1ad13cab7640dc90ac2911df6542dc,soccer_epl,EPL,2023-10-07T14:00:00Z,Fulham,Sheffield United,williamhill,William Hill,1.5,6.5,4.2,1.8,1.91,0.0,0.0
+5528d0b167ff7ae068b6d0478eb997c7,soccer_epl,EPL,2023-10-07T11:30:00Z,Luton,Tottenham Hotspur,williamhill,William Hill,7.0,1.4,4.8,1.44,2.62,0.0,1.0
+14f4848838e0003cf90b04e2b050bb07,soccer_epl,EPL,2023-10-07T14:00:00Z,Everton,Bournemouth,williamhill,William Hill,1.91,3.8,3.7,1.7,2.05,3.0,0.0
+ffaee6d3d0a33a53aaa286624422cd11,soccer_epl,EPL,2023-10-07T14:00:00Z,Manchester United,Brentford,williamhill,William Hill,1.65,4.8,4.0,1.62,2.2,2.0,1.0
+5ca0d427c6074c5081f434511430569c,soccer_epl,EPL,2023-10-07T14:00:00Z,Burnley,Chelsea,williamhill,William Hill,4.4,1.75,3.8,1.7,2.05,1.0,4.0
+5e1ad13cab7640dc90ac2911df6542dc,soccer_epl,EPL,2023-10-07T14:00:00Z,Fulham,Sheffield United,williamhill,William Hill,1.5,6.5,4.2,1.8,1.91,3.0,1.0
 f0f806a5dd04563e48566f1581aa3b55,soccer_epl,EPL,2023-10-07T16:30:00Z,Crystal Palace,Nottingham Forest,williamhill,William Hill,2.38,3.1,3.2,2.25,1.6,0.0,0.0
-8af4e3cafd5acdf76aa802f6efdcf41d,soccer_epl,EPL,2023-10-08T13:00:00Z,Wolverhampton Wanderers,Aston Villa,williamhill,William Hill,3.3,2.1,3.6,1.62,2.2,0.0,0.0
-e0e8c94420c07532683f7c157d4ea9b6,soccer_epl,EPL,2023-10-08T13:00:00Z,Brighton and Hove Albion,Liverpool,williamhill,William Hill,3.1,2.0,4.2,1.33,3.25,0.0,0.0
-0314f09e396060fe7a79e5aa3fee29da,soccer_epl,EPL,2023-10-08T13:00:00Z,West Ham United,Newcastle United,williamhill,William Hill,3.3,2.05,3.7,1.67,2.1,0.0,0.0
-f9759348f08884df9648f3e2dbbfd819,soccer_epl,EPL,2023-10-08T15:30:00Z,Arsenal,Manchester City,williamhill,William Hill,2.8,2.4,3.5,1.73,2.0,0.0,0.0
+8af4e3cafd5acdf76aa802f6efdcf41d,soccer_epl,EPL,2023-10-08T13:00:00Z,Wolverhampton Wanderers,Aston Villa,williamhill,William Hill,3.3,2.1,3.6,1.62,2.2,1.0,1.0
+e0e8c94420c07532683f7c157d4ea9b6,soccer_epl,EPL,2023-10-08T13:00:00Z,Brighton and Hove Albion,Liverpool,williamhill,William Hill,3.1,2.0,4.2,1.33,3.25,2.0,2.0
+0314f09e396060fe7a79e5aa3fee29da,soccer_epl,EPL,2023-10-08T13:00:00Z,West Ham United,Newcastle United,williamhill,William Hill,3.3,2.05,3.7,1.67,2.1,1.0,1.0
+f9759348f08884df9648f3e2dbbfd819,soccer_epl,EPL,2023-10-08T15:30:00Z,Arsenal,Manchester City,williamhill,William Hill,2.8,2.4,3.5,1.73,2.0,1.0,0.0
 621823edf7ad52b61fcd516b102b4afd,soccer_france_ligue_one,Ligue 1 - France,2023-10-06T19:00:00Z,Strasbourg,Nantes,williamhill,William Hill,2.0,3.6,3.5,1.91,1.8,1.0,2.0
-d82a15a5cc378addb1aeb93dd65c559e,soccer_france_ligue_one,Ligue 1 - France,2023-10-07T15:00:00Z,Metz,Nice,williamhill,William Hill,5.5,1.62,3.8,1.85,1.85,0.0,0.0
-da2709812339a31b752479494f5d1a02,soccer_france_ligue_one,Ligue 1 - France,2023-10-07T19:00:00Z,Stade de Reims,AS Monaco,williamhill,William Hill,2.6,2.45,3.7,1.57,2.3,0.0,0.0
-1f2643871ea0285f9dcc57606b35c13d,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T11:00:00Z,Marseille,Le Havre,williamhill,William Hill,1.44,7.0,4.5,1.62,2.2,0.0,0.0
-3accd6599c7664a3648e5f7af1601b10,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T13:00:00Z,Brest,Toulouse,williamhill,William Hill,1.75,4.5,3.7,1.85,1.85,0.0,0.0
-7926b9ec8b1a0c3c86eb6383020e43ae,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T13:00:00Z,Montpellier,Clermont,williamhill,William Hill,1.8,4.2,3.8,1.67,2.1,0.0,0.0
-97ddc55c6ade70f78250a66ea7d02c8d,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T13:00:00Z,Lyon,Lorient,williamhill,William Hill,1.65,4.8,4.0,1.62,2.2,0.0,0.0
-62cd94f713d2f6689688b5e91927b3e5,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T15:05:00Z,RC Lens,Lille,williamhill,William Hill,2.15,3.2,3.5,1.85,1.85,0.0,0.0
-84d82125655a9dc8593beb869ac95423,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T18:45:00Z,Rennes,Paris Saint Germain,williamhill,William Hill,3.3,2.05,3.7,1.7,2.05,0.0,0.0
-106d0a338c0dde200549867055b42c22,soccer_italy_serie_a,Serie A - Italy,2023-10-21T13:00:00Z,Hellas Verona FC,Napoli,williamhill,William Hill,6.0,1.5,4.33,1.73,2.0,0.0,0.0
-422cf29b4403bfe92a2cc2d18ea0df8a,soccer_italy_serie_a,Serie A - Italy,2023-10-21T16:00:00Z,Torino,Inter Milan,williamhill,William Hill,4.2,1.83,3.6,1.85,1.85,0.0,0.0
-c9180a059c06de854a136f464c630da3,soccer_italy_serie_a,Serie A - Italy,2023-10-21T18:45:00Z,Sassuolo,Lazio,williamhill,William Hill,2.7,2.4,3.7,1.62,2.2,0.0,0.0
-ad86651ed2c0924f75e86b2fbcbde952,soccer_italy_serie_a,Serie A - Italy,2023-10-22T10:30:00Z,AS Roma,Monza,williamhill,William Hill,1.62,5.5,3.8,1.91,1.8,0.0,0.0
-ba8671474a4d6668dd5b2dbf1ceac570,soccer_italy_serie_a,Serie A - Italy,2023-10-22T13:00:00Z,Bologna,Frosinone,williamhill,William Hill,1.6,5.5,4.0,1.85,1.85,0.0,0.0
-bc627f00fa1689017fb36e23747e3c84,soccer_italy_serie_a,Serie A - Italy,2023-10-22T13:00:00Z,Salernitana,Cagliari,williamhill,William Hill,2.4,2.88,3.4,2.1,1.67,0.0,0.0
-7a3ea06e032f39954c160ecdf2b0aeae,soccer_italy_serie_a,Serie A - Italy,2023-10-22T16:00:00Z,Atalanta BC,Genoa,williamhill,William Hill,1.53,6.0,4.2,1.8,1.91,0.0,0.0
-323d934ecbaec46beffae1858b3d5e01,soccer_italy_serie_a,Serie A - Italy,2023-10-22T18:45:00Z,AC Milan,Juventus,williamhill,William Hill,2.2,3.3,3.3,2.1,1.67,0.0,0.0
-0ad3ed309ff230a4b2e485bb74842e76,soccer_italy_serie_a,Serie A - Italy,2023-10-23T16:30:00Z,Udinese,Lecce,williamhill,William Hill,2.1,3.4,3.4,2.05,1.7,0.0,0.0
-d76acbabbed999c232b1bf02f4780e5e,soccer_italy_serie_a,Serie A - Italy,2023-10-23T18:45:00Z,Fiorentina,Empoli,williamhill,William Hill,1.44,6.5,4.75,1.67,2.1,0.0,0.0
-4026494a30d50d6e544312b4110353da,soccer_epl,EPL,2023-10-21T11:30:00Z,Liverpool,Everton,williamhill,William Hill,1.33,8.0,5.5,1.4,2.75,0.0,0.0
-46a9e6b3f71feeba5ea7df3f06472ec9,soccer_epl,EPL,2023-10-21T14:00:00Z,Bournemouth,Wolverhampton Wanderers,williamhill,William Hill,2.38,2.8,3.5,1.8,1.91,0.0,0.0
-268cf4f91bfda0b9cac2a5236af1eead,soccer_epl,EPL,2023-10-21T14:00:00Z,Brentford,Burnley,williamhill,William Hill,1.73,4.5,3.8,1.8,1.91,0.0,0.0
-5fb327dee8252a821f171d8cd543b197,soccer_epl,EPL,2023-10-21T14:00:00Z,Manchester City,Brighton and Hove Albion,williamhill,William Hill,1.4,6.5,5.5,1.36,3.0,0.0,0.0
-ce277932a11c04fb64e91e4cafaab38a,soccer_epl,EPL,2023-10-21T14:00:00Z,Newcastle United,Crystal Palace,williamhill,William Hill,1.44,7.0,4.4,1.73,2.0,0.0,0.0
-12a78834c1d008d7e4d3cd8c27dda056,soccer_epl,EPL,2023-10-21T14:00:00Z,Nottingham Forest,Luton,williamhill,William Hill,1.73,4.75,3.7,2.0,1.73,0.0,0.0
-4e8496d20347695809150f629832a3a1,soccer_epl,EPL,2023-10-21T16:30:00Z,Chelsea,Arsenal,williamhill,William Hill,3.25,2.1,3.6,1.8,1.91,0.0,0.0
-503b226b80dc3b0fb6c252ca17a2f7e4,soccer_epl,EPL,2023-10-21T19:00:00Z,Sheffield United,Manchester United,williamhill,William Hill,5.8,1.5,4.5,1.6,2.25,0.0,0.0
-02cccd18939a65f1a301fadffab951d9,soccer_epl,EPL,2023-10-22T15:30:00Z,Aston Villa,West Ham United,williamhill,William Hill,1.91,3.6,3.8,1.62,2.2,0.0,0.0
-cb080897cfb2626e93bec2e63947911a,soccer_epl,EPL,2023-10-23T19:00:00Z,Tottenham Hotspur,Fulham,williamhill,William Hill,1.5,5.8,4.5,1.57,2.3,0.0,0.0
-93619d5624c01f08a1a677bc3b195ca7,soccer_france_ligue_one,Ligue 1 - France,2023-10-20T19:00:00Z,Le Havre,RC Lens,williamhill,William Hill,3.75,1.91,3.4,1.8,1.91,0.0,0.0
-9670a7a9d0321ddd4bc3b1192ab848e2,soccer_france_ligue_one,Ligue 1 - France,2023-10-21T15:00:00Z,Paris Saint Germain,Strasbourg,williamhill,William Hill,1.25,11.0,5.8,1.5,2.5,0.0,0.0
-f9a24d10e6801caf4cec2414b0fb5688,soccer_france_ligue_one,Ligue 1 - France,2023-10-21T19:00:00Z,Nice,Marseille,williamhill,William Hill,2.38,2.8,3.6,1.8,1.91,0.0,0.0
-c938607dd942a8478e85912e8f228b57,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T11:00:00Z,Lorient,Rennes,williamhill,William Hill,3.8,1.91,3.7,1.8,1.91,0.0,0.0
-a2924ed3d937cd1d169cfa18b3004080,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T13:00:00Z,Lille,Brest,williamhill,William Hill,1.6,5.0,4.2,1.67,2.1,0.0,0.0
-4355461a2e45da175206efc85bb6da8f,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T13:00:00Z,Nantes,Montpellier,williamhill,William Hill,2.75,2.4,3.6,1.8,1.91,0.0,0.0
-44f8811558cfc4e350c0164c131314c0,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T13:00:00Z,Toulouse,Stade de Reims,williamhill,William Hill,2.7,2.38,3.7,1.67,2.1,0.0,0.0
-4030847bdda4002814d87cc18b1c8182,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T15:05:00Z,AS Monaco,Metz,williamhill,William Hill,1.36,7.5,5.5,1.5,2.5,0.0,0.0
-d3cd9d41e954b9612dab5d7eff90ae27,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T18:45:00Z,Lyon,Clermont,williamhill,William Hill,1.67,4.6,4.2,1.67,2.1,0.0,0.0
-27b61e26d276caf98af7da4eadb8e6bb,soccer_spain_la_liga,La Liga - Spain,2023-10-20T19:00:00Z,CA Osasuna,Granada CF,williamhill,William Hill,1.75,4.6,3.7,2.1,1.67,0.0,0.0
-8ea93b8f1606536c88c8c7cef4dfd5bc,soccer_spain_la_liga,La Liga - Spain,2023-10-21T12:00:00Z,Real Sociedad,Mallorca,williamhill,William Hill,1.5,7.5,3.8,2.5,1.5,0.0,0.0
-4df5bb385a5062cf428e82d995d0b84b,soccer_spain_la_liga,La Liga - Spain,2023-10-21T14:15:00Z,Getafe,Real Betis,williamhill,William Hill,2.5,3.0,3.1,2.5,1.5,0.0,0.0
-6bc5340b7437789603c5cd55046cea22,soccer_spain_la_liga,La Liga - Spain,2023-10-21T16:30:00Z,Sevilla,Real Madrid,williamhill,William Hill,3.5,1.95,3.75,1.7,2.05,0.0,0.0
-097a2552ac26118509a0c9ed77d5bcc2,soccer_spain_la_liga,La Liga - Spain,2023-10-21T19:00:00Z,Celta Vigo,Atlético Madrid,williamhill,William Hill,3.25,2.2,3.4,2.1,1.67,0.0,0.0
-37555e990cfaecf74e37f896971b0fa8,soccer_spain_la_liga,La Liga - Spain,2023-10-22T12:00:00Z,Las Palmas,Rayo Vallecano,williamhill,William Hill,2.62,2.7,3.2,2.25,1.6,0.0,0.0
-5a15dc1ded29941b9d093fd1640b38df,soccer_spain_la_liga,La Liga - Spain,2023-10-22T14:15:00Z,Girona,Almería,williamhill,William Hill,1.57,5.5,4.2,1.57,2.3,0.0,0.0
-ec9f430af4b8a47f1ae0d71bffce70e8,soccer_spain_la_liga,La Liga - Spain,2023-10-22T16:30:00Z,Villarreal,Alavés,williamhill,William Hill,1.62,5.5,3.9,1.91,1.8,0.0,0.0
-521545b0b2e48a62e9914d27905be8bb,soccer_spain_la_liga,La Liga - Spain,2023-10-22T19:00:00Z,Barcelona,Athletic Bilbao,williamhill,William Hill,1.44,7.0,4.6,1.67,2.1,0.0,0.0
-ee502833e6ad08d73c041858ea03bbcf,soccer_spain_la_liga,La Liga - Spain,2023-10-23T19:00:00Z,Valencia,Cádiz CF,williamhill,William Hill,1.8,4.5,3.6,2.2,1.62,0.0,0.0
-907c14ecfafefe8385b084b5e7f5d83d,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-20T18:30:00Z,Borussia Dortmund,Werder Bremen,williamhill,William Hill,1.33,7.5,5.8,1.36,3.0,0.0,0.0
-69100ffe98076285b967bf7a86cec505,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,VfL Wolfsburg,Bayer Leverkusen,williamhill,William Hill,3.2,2.05,3.8,1.6,2.25,0.0,0.0
-5d970a52614adfdb927aa159000f4d77,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,TSG Hoffenheim,Eintracht Frankfurt,williamhill,William Hill,2.25,2.88,3.7,1.62,2.2,0.0,0.0
-6b2d1be60855dc13c268d3a1f1735667,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,SV Darmstadt 98,RB Leipzig,williamhill,William Hill,7.0,1.4,5.0,1.44,2.62,0.0,0.0
-a86c539fa2482f4478b39658910aa210,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,SC Freiburg,VfL Bochum,williamhill,William Hill,1.6,5.0,4.2,1.62,2.2,0.0,0.0
-aa56f4ea86d2719eeecc099e48f1a03c,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,Union Berlin,VfB Stuttgart,williamhill,William Hill,2.38,2.9,3.4,1.91,1.8,0.0,0.0
-cd7e081b070e1cf2fe12d77d9a3e29aa,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T16:30:00Z,FSV Mainz 05,Bayern Munich,williamhill,William Hill,7.5,1.33,5.8,1.3,3.4,0.0,0.0
-5deec386eafd5ba5676131d28379240d,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-22T13:30:00Z,FC Koln,Borussia Monchengladbach,williamhill,William Hill,2.05,3.25,3.75,1.67,2.1,0.0,0.0
-e5fdbf88cc262012df318892aac1b996,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-22T15:30:00Z,FC Heidenheim,Augsburg,williamhill,William Hill,2.25,2.88,3.7,1.67,2.1,0.0,0.0
+d82a15a5cc378addb1aeb93dd65c559e,soccer_france_ligue_one,Ligue 1 - France,2023-10-07T15:00:00Z,Metz,Nice,williamhill,William Hill,5.5,1.62,3.8,1.85,1.85,0.0,1.0
+da2709812339a31b752479494f5d1a02,soccer_france_ligue_one,Ligue 1 - France,2023-10-07T19:00:00Z,Stade de Reims,AS Monaco,williamhill,William Hill,2.6,2.45,3.7,1.57,2.3,1.0,3.0
+1f2643871ea0285f9dcc57606b35c13d,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T11:00:00Z,Marseille,Le Havre,williamhill,William Hill,1.44,7.0,4.5,1.62,2.2,3.0,0.0
+3accd6599c7664a3648e5f7af1601b10,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T13:00:00Z,Brest,Toulouse,williamhill,William Hill,1.75,4.5,3.7,1.85,1.85,1.0,1.0
+7926b9ec8b1a0c3c86eb6383020e43ae,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T13:00:00Z,Montpellier,Clermont,williamhill,William Hill,1.8,4.2,3.8,1.67,2.1,4.0,2.0
+97ddc55c6ade70f78250a66ea7d02c8d,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T13:00:00Z,Lyon,Lorient,williamhill,William Hill,1.65,4.8,4.0,1.62,2.2,3.0,3.0
+62cd94f713d2f6689688b5e91927b3e5,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T15:05:00Z,RC Lens,Lille,williamhill,William Hill,2.15,3.2,3.5,1.85,1.85,1.0,1.0
+84d82125655a9dc8593beb869ac95423,soccer_france_ligue_one,Ligue 1 - France,2023-10-08T18:45:00Z,Rennes,Paris Saint Germain,williamhill,William Hill,3.3,2.05,3.7,1.7,2.05,1.0,3.0
+106d0a338c0dde200549867055b42c22,soccer_italy_serie_a,Serie A - Italy,2023-10-21T13:00:00Z,Hellas Verona FC,Napoli,williamhill,William Hill,5.5,1.6,3.9,1.73,2.0,1.0,3.0
+422cf29b4403bfe92a2cc2d18ea0df8a,soccer_italy_serie_a,Serie A - Italy,2023-10-21T16:00:00Z,Torino,Inter Milan,williamhill,William Hill,5.0,1.7,3.7,1.85,1.85,0.0,3.0
+c9180a059c06de854a136f464c630da3,soccer_italy_serie_a,Serie A - Italy,2023-10-21T18:45:00Z,Sassuolo,Lazio,williamhill,William Hill,2.7,2.4,3.7,1.6,2.25,0.0,2.0
+ad86651ed2c0924f75e86b2fbcbde952,soccer_italy_serie_a,Serie A - Italy,2023-10-22T10:30:00Z,AS Roma,Monza,williamhill,William Hill,1.67,5.0,3.8,1.85,1.85,1.0,0.0
+ba8671474a4d6668dd5b2dbf1ceac570,soccer_italy_serie_a,Serie A - Italy,2023-10-22T13:00:00Z,Bologna,Frosinone,williamhill,William Hill,1.73,4.75,3.75,1.8,1.91,2.0,1.0
+bc627f00fa1689017fb36e23747e3c84,soccer_italy_serie_a,Serie A - Italy,2023-10-22T13:00:00Z,Salernitana,Cagliari,williamhill,William Hill,2.3,3.2,3.2,2.05,1.7,2.0,2.0
+7a3ea06e032f39954c160ecdf2b0aeae,soccer_italy_serie_a,Serie A - Italy,2023-10-22T16:00:00Z,Atalanta BC,Genoa,williamhill,William Hill,1.5,6.5,4.2,1.85,1.85,2.0,0.0
+323d934ecbaec46beffae1858b3d5e01,soccer_italy_serie_a,Serie A - Italy,2023-10-22T18:45:00Z,AC Milan,Juventus,williamhill,William Hill,2.25,3.2,3.25,2.05,1.7,0.0,1.0
+0ad3ed309ff230a4b2e485bb74842e76,soccer_italy_serie_a,Serie A - Italy,2023-10-23T16:30:00Z,Udinese,Lecce,williamhill,William Hill,2.15,3.4,3.3,2.05,1.7,1.0,1.0
+d76acbabbed999c232b1bf02f4780e5e,soccer_italy_serie_a,Serie A - Italy,2023-10-23T18:45:00Z,Fiorentina,Empoli,williamhill,William Hill,1.4,7.5,4.75,1.62,2.2,0.0,2.0
+4026494a30d50d6e544312b4110353da,soccer_epl,EPL,2023-10-21T11:30:00Z,Liverpool,Everton,williamhill,William Hill,1.33,8.0,5.5,1.36,3.0,2.0,0.0
+46a9e6b3f71feeba5ea7df3f06472ec9,soccer_epl,EPL,2023-10-21T14:00:00Z,Bournemouth,Wolverhampton Wanderers,williamhill,William Hill,2.38,2.8,3.5,1.73,2.0,1.0,2.0
+268cf4f91bfda0b9cac2a5236af1eead,soccer_epl,EPL,2023-10-21T14:00:00Z,Brentford,Burnley,williamhill,William Hill,1.75,4.4,3.8,1.8,1.91,3.0,0.0
+5fb327dee8252a821f171d8cd543b197,soccer_epl,EPL,2023-10-21T14:00:00Z,Manchester City,Brighton and Hove Albion,williamhill,William Hill,1.4,6.5,5.5,1.36,3.0,2.0,1.0
+ce277932a11c04fb64e91e4cafaab38a,soccer_epl,EPL,2023-10-21T14:00:00Z,Newcastle United,Crystal Palace,williamhill,William Hill,1.44,7.5,4.5,1.7,2.05,4.0,0.0
+12a78834c1d008d7e4d3cd8c27dda056,soccer_epl,EPL,2023-10-21T14:00:00Z,Nottingham Forest,Luton,williamhill,William Hill,1.62,5.5,3.8,1.91,1.8,2.0,2.0
+4e8496d20347695809150f629832a3a1,soccer_epl,EPL,2023-10-21T16:30:00Z,Chelsea,Arsenal,williamhill,William Hill,3.0,2.25,3.5,1.8,1.91,2.0,2.0
+503b226b80dc3b0fb6c252ca17a2f7e4,soccer_epl,EPL,2023-10-21T19:00:00Z,Sheffield United,Manchester United,williamhill,William Hill,7.5,1.4,5.0,1.5,2.5,1.0,2.0
+02cccd18939a65f1a301fadffab951d9,soccer_epl,EPL,2023-10-22T15:30:00Z,Aston Villa,West Ham United,williamhill,William Hill,1.85,3.75,3.9,1.53,2.38,4.0,1.0
+cb080897cfb2626e93bec2e63947911a,soccer_epl,EPL,2023-10-23T19:00:00Z,Tottenham Hotspur,Fulham,williamhill,William Hill,1.5,6.0,4.6,1.44,2.62,2.0,0.0
+93619d5624c01f08a1a677bc3b195ca7,soccer_france_ligue_one,Ligue 1 - France,2023-10-20T19:00:00Z,Le Havre,RC Lens,williamhill,William Hill,4.6,1.8,3.5,1.91,1.8,0.0,0.0
+9670a7a9d0321ddd4bc3b1192ab848e2,soccer_france_ligue_one,Ligue 1 - France,2023-10-21T15:00:00Z,Paris Saint Germain,Strasbourg,williamhill,William Hill,1.2,13.0,6.5,1.4,2.75,3.0,0.0
+f9a24d10e6801caf4cec2414b0fb5688,soccer_france_ligue_one,Ligue 1 - France,2023-10-21T19:00:00Z,Nice,Marseille,williamhill,William Hill,2.45,2.88,3.3,1.91,1.8,1.0,0.0
+c938607dd942a8478e85912e8f228b57,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T11:00:00Z,Lorient,Rennes,williamhill,William Hill,3.9,1.85,3.75,1.73,2.0,2.0,1.0
+a2924ed3d937cd1d169cfa18b3004080,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T13:00:00Z,Lille,Brest,williamhill,William Hill,1.75,4.5,3.7,1.85,1.85,1.0,0.0
+4355461a2e45da175206efc85bb6da8f,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T13:00:00Z,Nantes,Montpellier,williamhill,William Hill,2.8,2.38,3.6,1.73,2.0,2.0,0.0
+44f8811558cfc4e350c0164c131314c0,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T13:00:00Z,Toulouse,Stade de Reims,williamhill,William Hill,2.8,2.38,3.5,1.73,2.0,1.0,1.0
+4030847bdda4002814d87cc18b1c8182,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T15:05:00Z,AS Monaco,Metz,williamhill,William Hill,1.33,8.0,5.5,1.4,2.75,2.0,1.0
+d3cd9d41e954b9612dab5d7eff90ae27,soccer_france_ligue_one,Ligue 1 - France,2023-10-22T18:45:00Z,Lyon,Clermont,williamhill,William Hill,1.73,4.33,4.0,1.67,2.1,1.0,2.0
+27b61e26d276caf98af7da4eadb8e6bb,soccer_spain_la_liga,La Liga - Spain,2023-10-20T19:00:00Z,CA Osasuna,Granada CF,williamhill,William Hill,1.73,4.6,3.75,1.85,1.85,2.0,0.0
+8ea93b8f1606536c88c8c7cef4dfd5bc,soccer_spain_la_liga,La Liga - Spain,2023-10-21T12:00:00Z,Real Sociedad,Mallorca,williamhill,William Hill,1.53,7.0,3.8,2.3,1.57,1.0,0.0
+4df5bb385a5062cf428e82d995d0b84b,soccer_spain_la_liga,La Liga - Spain,2023-10-21T14:15:00Z,Getafe,Real Betis,williamhill,William Hill,2.45,3.0,3.1,2.3,1.57,1.0,1.0
+6bc5340b7437789603c5cd55046cea22,soccer_spain_la_liga,La Liga - Spain,2023-10-21T16:30:00Z,Sevilla,Real Madrid,williamhill,William Hill,4.0,1.8,3.9,1.67,2.1,1.0,1.0
+097a2552ac26118509a0c9ed77d5bcc2,soccer_spain_la_liga,La Liga - Spain,2023-10-21T19:00:00Z,Celta Vigo,Atlético Madrid,williamhill,William Hill,3.5,2.05,3.5,1.91,1.8,0.0,3.0
+37555e990cfaecf74e37f896971b0fa8,soccer_spain_la_liga,La Liga - Spain,2023-10-22T12:00:00Z,Las Palmas,Rayo Vallecano,williamhill,William Hill,2.6,2.75,3.2,2.2,1.62,0.0,1.0
+5a15dc1ded29941b9d093fd1640b38df,soccer_spain_la_liga,La Liga - Spain,2023-10-22T14:15:00Z,Girona,Almería,williamhill,William Hill,1.44,6.5,4.8,1.5,2.5,5.0,2.0
+ec9f430af4b8a47f1ae0d71bffce70e8,soccer_spain_la_liga,La Liga - Spain,2023-10-22T16:30:00Z,Villarreal,Alavés,williamhill,William Hill,1.67,5.0,3.8,1.85,1.85,1.0,1.0
+521545b0b2e48a62e9914d27905be8bb,soccer_spain_la_liga,La Liga - Spain,2023-10-22T19:00:00Z,Barcelona,Athletic Bilbao,williamhill,William Hill,1.62,5.0,4.0,1.67,2.1,1.0,0.0
+ee502833e6ad08d73c041858ea03bbcf,soccer_spain_la_liga,La Liga - Spain,2023-10-23T19:00:00Z,Valencia,Cádiz CF,williamhill,William Hill,1.73,5.0,3.6,2.1,1.67,2.0,0.0
+907c14ecfafefe8385b084b5e7f5d83d,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-20T18:30:00Z,Borussia Dortmund,Werder Bremen,williamhill,William Hill,1.29,9.0,6.0,1.3,3.4,1.0,0.0
+69100ffe98076285b967bf7a86cec505,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,VfL Wolfsburg,Bayer Leverkusen,williamhill,William Hill,4.33,1.73,4.0,1.5,2.5,1.0,2.0
+5d970a52614adfdb927aa159000f4d77,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,TSG Hoffenheim,Eintracht Frankfurt,williamhill,William Hill,2.05,3.3,3.7,1.67,2.1,1.0,3.0
+6b2d1be60855dc13c268d3a1f1735667,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,SV Darmstadt 98,RB Leipzig,williamhill,William Hill,6.5,1.44,4.8,1.44,2.62,1.0,3.0
+a86c539fa2482f4478b39658910aa210,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,SC Freiburg,VfL Bochum,williamhill,William Hill,1.7,4.6,4.0,1.67,2.1,2.0,1.0
+aa56f4ea86d2719eeecc099e48f1a03c,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T13:30:00Z,Union Berlin,VfB Stuttgart,williamhill,William Hill,2.45,2.7,3.5,1.7,2.05,0.0,3.0
+cd7e081b070e1cf2fe12d77d9a3e29aa,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-21T16:30:00Z,FSV Mainz 05,Bayern Munich,williamhill,William Hill,9.5,1.25,6.5,1.29,3.5,1.0,3.0
+5deec386eafd5ba5676131d28379240d,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-22T13:30:00Z,FC Koln,Borussia Monchengladbach,williamhill,William Hill,2.38,2.75,3.75,1.57,2.3,3.0,1.0
+e5fdbf88cc262012df318892aac1b996,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-22T15:30:00Z,FC Heidenheim,Augsburg,williamhill,William Hill,2.38,2.75,3.6,1.67,2.1,2.0,5.0
+7f6b02e6520f16fe5942e9d4528a3914,soccer_italy_serie_a,Serie A - Italy,2023-10-27T18:45:00Z,Genoa,Salernitana,williamhill,William Hill,1.8,4.33,3.7,2.05,1.7,1.0,0.0
+2300f527ce8199ed8061e14b0673adc7,soccer_italy_serie_a,Serie A - Italy,2023-10-28T13:00:00Z,Sassuolo,Bologna,williamhill,William Hill,2.6,2.5,3.6,1.67,2.1,1.0,1.0
+fd55eaf43df2009cc557e2dc1b6947d8,soccer_italy_serie_a,Serie A - Italy,2023-10-28T16:00:00Z,Lecce,Torino,williamhill,William Hill,2.62,2.88,3.0,2.5,1.5,0.0,1.0
+0bc449b1af30ad586b7586365750a2d9,soccer_italy_serie_a,Serie A - Italy,2023-10-28T18:45:00Z,Juventus,Hellas Verona FC,williamhill,William Hill,1.33,10.0,4.75,1.73,2.0,1.0,0.0
+5ed5b84ef865b986a20c17598eb32853,soccer_italy_serie_a,Serie A - Italy,2023-10-29T11:30:00Z,Cagliari,Frosinone,williamhill,William Hill,2.25,3.1,3.4,1.8,1.91,4.0,3.0
+539de40603244e24f384773a7d53703c,soccer_italy_serie_a,Serie A - Italy,2023-10-29T14:00:00Z,Monza,Udinese,williamhill,William Hill,2.0,3.6,3.5,1.8,1.91,1.0,1.0
+8e6055366cfb80901fb650ce0adb1a88,soccer_italy_serie_a,Serie A - Italy,2023-10-29T17:00:00Z,Inter Milan,AS Roma,williamhill,William Hill,1.57,5.8,4.0,1.85,1.85,1.0,0.0
+18c40ab09b66f6c7391f22885b98384c,soccer_italy_serie_a,Serie A - Italy,2023-10-29T19:45:00Z,Napoli,AC Milan,williamhill,William Hill,2.15,3.4,3.3,1.85,1.85,2.0,2.0
+b5d656249e193831ff00bf1054b657c1,soccer_italy_serie_a,Serie A - Italy,2023-10-30T17:30:00Z,Empoli,Atalanta BC,williamhill,William Hill,5.0,1.62,4.2,1.73,2.0,0.0,3.0
+b5e37e0ab104cd6e35ced2fbebadad9c,soccer_italy_serie_a,Serie A - Italy,2023-10-30T19:45:00Z,Lazio,Fiorentina,williamhill,William Hill,2.25,3.0,3.5,1.85,1.85,1.0,0.0
+cc3c1b56cba5a77f4d9d3e2bcfc22514,soccer_epl,EPL,2023-10-27T19:00:00Z,Crystal Palace,Tottenham Hotspur,williamhill,William Hill,3.4,2.0,3.7,1.73,2.0,1.0,2.0
+536f44f6f12f24b3676e3f104c512e52,soccer_epl,EPL,2023-10-28T11:30:00Z,Chelsea,Brentford,williamhill,William Hill,1.6,5.5,4.0,1.7,2.05,0.0,2.0
+15e994381b697e59a790b3c85a18632a,soccer_epl,EPL,2023-10-28T14:00:00Z,Arsenal,Sheffield United,williamhill,William Hill,1.06,29.0,12.0,1.3,3.4,5.0,0.0
+012818c15693e7a6c7f8f27b68c84c86,soccer_epl,EPL,2023-10-28T14:00:00Z,Bournemouth,Burnley,williamhill,William Hill,2.1,3.25,3.6,1.73,2.0,2.0,1.0
+ab1580643b97f71e4450ba26a7110a16,soccer_epl,EPL,2023-10-28T16:30:00Z,Wolverhampton Wanderers,Newcastle United,williamhill,William Hill,4.2,1.75,3.9,1.73,2.0,2.0,2.0
+d2a89958592a5faec572c285a24d2023,soccer_epl,EPL,2023-10-29T13:00:00Z,West Ham United,Everton,williamhill,William Hill,2.1,3.2,3.7,1.67,2.1,0.0,1.0
+2805ab860d9648659b1f1f62ef14e32b,soccer_epl,EPL,2023-10-29T14:00:00Z,Aston Villa,Luton,williamhill,William Hill,1.25,10.0,6.5,1.4,2.75,3.0,1.0
+c02a5535b31b233c97f2b1a47632d75f,soccer_epl,EPL,2023-10-29T14:00:00Z,Brighton and Hove Albion,Fulham,williamhill,William Hill,1.53,5.5,4.5,1.44,2.62,1.0,1.0
+2396cdc83d3f5994ae732126ccf61075,soccer_epl,EPL,2023-10-29T14:00:00Z,Liverpool,Nottingham Forest,williamhill,William Hill,1.22,11.0,6.5,1.36,3.0,3.0,0.0
+206298e9cfcd85d8df11f17239044690,soccer_epl,EPL,2023-10-29T15:30:00Z,Manchester United,Manchester City,williamhill,William Hill,5.0,1.62,4.2,1.67,2.1,0.0,3.0
+f766c7847eed920ff8b3ce6c02d01d74,soccer_france_ligue_one,Ligue 1 - France,2023-10-27T19:00:00Z,Clermont,Nice,williamhill,William Hill,4.0,1.91,3.6,2.0,1.73,0.0,1.0
+d8df306aecf8f983a763d5e28eb93717,soccer_france_ligue_one,Ligue 1 - France,2023-10-28T15:00:00Z,Stade de Reims,Lorient,williamhill,William Hill,1.65,5.0,4.0,1.67,2.1,1.0,0.0
+8fed5e17084483172849174e33094f4b,soccer_france_ligue_one,Ligue 1 - France,2023-10-28T19:00:00Z,RC Lens,Nantes,williamhill,William Hill,1.55,5.8,4.2,1.7,2.05,4.0,0.0
+e776937be4f258a83f45d86a7749398e,soccer_france_ligue_one,Ligue 1 - France,2023-10-29T12:00:00Z,Brest,Paris Saint Germain,williamhill,William Hill,5.8,1.5,4.5,1.6,2.25,2.0,3.0
+e71f72839f381a3b2c1b203c2227085b,soccer_france_ligue_one,Ligue 1 - France,2023-10-29T14:00:00Z,Lille,AS Monaco,williamhill,William Hill,2.2,2.9,3.8,1.53,2.38,2.0,0.0
+002924b74f0ab85efeb656aa5d5e8e55,soccer_france_ligue_one,Ligue 1 - France,2023-10-29T14:00:00Z,Metz,Le Havre,williamhill,William Hill,2.5,2.88,3.2,2.05,1.7,0.0,0.0
+2b0bde71e7c1033d755aec435632c37f,soccer_france_ligue_one,Ligue 1 - France,2023-10-29T14:00:00Z,Montpellier,Toulouse,williamhill,William Hill,1.73,4.5,3.8,1.7,2.05,3.0,0.0
+305aa29ed689714b0c183d8a5effaf80,soccer_france_ligue_one,Ligue 1 - France,2023-10-29T16:05:00Z,Rennes,Strasbourg,williamhill,William Hill,1.55,5.8,4.2,1.8,1.91,1.0,1.0
+434cfb6ad880b5484eff608f2b5cd1aa,soccer_spain_la_liga,La Liga - Spain,2023-10-27T19:00:00Z,Girona,Celta Vigo,williamhill,William Hill,1.91,3.7,3.75,1.85,1.85,1.0,0.0
+f1f7eb6725fb42a205cc4ed547b72742,soccer_spain_la_liga,La Liga - Spain,2023-10-28T12:00:00Z,Almería,Las Palmas,williamhill,William Hill,2.25,3.1,3.4,1.85,1.85,1.0,2.0
+b791ed68da48b9342898d68a5ccd9a2c,soccer_spain_la_liga,La Liga - Spain,2023-10-28T14:15:00Z,Barcelona,Real Madrid,williamhill,William Hill,2.4,2.7,3.6,1.6,2.25,1.0,2.0
+15547dc0e0bae556196e4e165e8ce4d2,soccer_spain_la_liga,La Liga - Spain,2023-10-28T16:30:00Z,Mallorca,Getafe,williamhill,William Hill,2.25,3.6,3.0,2.62,1.44,0.0,0.0
+54534e4ed10e8efa9468287f94c69cc8,soccer_spain_la_liga,La Liga - Spain,2023-10-28T19:00:00Z,Cádiz CF,Sevilla,williamhill,William Hill,3.5,2.1,3.4,2.0,1.73,2.0,2.0
+3ea11f28c4cafe83c4cf56167d8dc3bb,soccer_spain_la_liga,La Liga - Spain,2023-10-29T13:00:00Z,Real Betis,CA Osasuna,williamhill,William Hill,2.05,3.6,3.4,2.05,1.7,2.0,1.0
+617aca3f87c73090c29d302b613ded7f,soccer_spain_la_liga,La Liga - Spain,2023-10-29T15:15:00Z,Rayo Vallecano,Real Sociedad,williamhill,William Hill,3.2,2.3,3.2,2.3,1.57,2.0,2.0
+72d21a004e3579362def85b78d57af87,soccer_spain_la_liga,La Liga - Spain,2023-10-29T17:30:00Z,Athletic Bilbao,Valencia,williamhill,William Hill,1.6,5.8,3.8,2.0,1.73,2.0,2.0
+38f787993f73eb2e981f5395e6eed149,soccer_spain_la_liga,La Liga - Spain,2023-10-29T20:00:00Z,Atlético Madrid,Alavés,williamhill,William Hill,1.35,9.0,4.75,1.7,2.05,2.0,1.0
+384a366b0c1917f2ab1640bc57084ddd,soccer_spain_la_liga,La Liga - Spain,2023-10-30T20:00:00Z,Granada CF,Villarreal,williamhill,William Hill,2.9,2.25,3.7,1.67,2.1,2.0,3.0
+76c66bcdc0ae2ffbbf8bdd2c8b55a9e6,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-27T18:30:00Z,VfL Bochum,FSV Mainz 05,williamhill,William Hill,2.3,2.88,3.6,1.67,2.1,2.0,2.0
+539f7715b7fe17f81858cabc65e1148b,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-28T13:30:00Z,Augsburg,VfL Wolfsburg,williamhill,William Hill,2.62,2.5,3.6,1.67,2.1,3.0,2.0
+ccfd5519f134acc97a9f665f2d8350b4,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-28T13:30:00Z,Bayern Munich,SV Darmstadt 98,williamhill,William Hill,1.05,26.0,15.0,1.14,5.0,8.0,0.0
+3f23e941aee9f6bf78d516e759f54e97,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-28T13:30:00Z,Borussia Monchengladbach,FC Heidenheim,williamhill,William Hill,1.67,4.33,4.33,1.4,2.75,2.0,1.0
+5554fa257e8b7329f97452d116cb3891,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-28T13:30:00Z,VfB Stuttgart,TSG Hoffenheim,williamhill,William Hill,1.73,4.2,4.2,1.5,2.5,2.0,3.0
+116fa640eb6893f1df5161f687ad45ff,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-28T13:30:00Z,Werder Bremen,Union Berlin,williamhill,William Hill,2.75,2.4,3.6,1.73,2.0,2.0,0.0
+3d72b0ca8b9829902db9e891e1e91f86,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-28T16:30:00Z,RB Leipzig,FC Koln,williamhill,William Hill,1.4,7.0,4.8,1.5,2.5,6.0,0.0
+04a755d17d67b794a7a3ae5a6a4dae05,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-29T14:30:00Z,Eintracht Frankfurt,Borussia Dortmund,williamhill,William Hill,3.2,2.1,3.7,1.62,2.2,3.0,3.0
+9b2e8360f723944725f9cf6851a63d69,soccer_germany_bundesliga,Bundesliga - Germany,2023-10-29T16:30:00Z,Bayer Leverkusen,SC Freiburg,williamhill,William Hill,1.25,11.0,6.0,1.44,2.62,2.0,1.0
+4f7eabed122f2b97feb99d4c94bc42d2,soccer_italy_serie_a,Serie A - Italy,2023-11-03T19:45:00Z,Bologna,Lazio,williamhill,William Hill,2.5,2.6,3.4,1.85,1.85,1.0,0.0
+4b7a428e6c726254070559037b3ef519,soccer_italy_serie_a,Serie A - Italy,2023-11-04T14:00:00Z,Salernitana,Napoli,williamhill,William Hill,7.0,1.4,4.75,1.5,2.5,0.0,2.0
+47916111deaa22ef323cfa3542bd3ab1,soccer_italy_serie_a,Serie A - Italy,2023-11-04T17:00:00Z,Atalanta BC,Inter Milan,williamhill,William Hill,3.2,2.1,3.5,1.73,2.0,1.0,2.0
+431e6a05c2544e55b9950c7611990842,soccer_italy_serie_a,Serie A - Italy,2023-11-04T19:45:00Z,AC Milan,Udinese,williamhill,William Hill,1.4,7.0,4.5,1.7,2.05,0.0,1.0
+906759a8cfa9e8321adc08782e7546d1,soccer_italy_serie_a,Serie A - Italy,2023-11-05T11:30:00Z,Hellas Verona FC,Monza,williamhill,William Hill,3.0,2.3,3.25,1.91,1.8,1.0,3.0
+39d6b62c5ec704457db455c24f8387f5,soccer_italy_serie_a,Serie A - Italy,2023-11-05T14:00:00Z,Cagliari,Genoa,williamhill,William Hill,2.62,2.6,3.2,2.0,1.73,2.0,1.0
+dc08cdceab8a0e9f000b976edfcbd573,soccer_italy_serie_a,Serie A - Italy,2023-11-05T17:00:00Z,AS Roma,Lecce,williamhill,William Hill,1.53,6.0,3.9,2.05,1.7,2.0,1.0
+89b259006ea6d72a9819fdc6f5f5ebad,soccer_italy_serie_a,Serie A - Italy,2023-11-05T19:45:00Z,Fiorentina,Juventus,williamhill,William Hill,2.75,2.45,3.3,1.91,1.8,0.0,1.0
+c3186ca7e9284ecda511ed73146b71ae,soccer_italy_serie_a,Serie A - Italy,2023-11-06T17:30:00Z,Frosinone,Empoli,williamhill,William Hill,2.05,3.25,3.6,1.8,1.91,2.0,1.0
+bcd1cacea8cee6321291dcc9901ca0a4,soccer_italy_serie_a,Serie A - Italy,2023-11-06T19:45:00Z,Torino,Sassuolo,williamhill,William Hill,2.05,3.4,3.4,1.8,1.91,2.0,1.0
+439ae8b6e6ccb25359cae67ccee9a61c,soccer_epl,EPL,2023-11-04T12:30:00Z,Fulham,Manchester United,williamhill,William Hill,3.25,2.05,3.6,1.73,2.0,0.0,1.0
+d42006aa25ebf9627c4146d69563b890,soccer_epl,EPL,2023-11-04T15:00:00Z,Manchester City,Bournemouth,williamhill,William Hill,1.07,23.0,10.0,1.3,3.4,6.0,1.0
+197f71924f69a83fbd10a4f0daa2d8d6,soccer_epl,EPL,2023-11-04T15:00:00Z,Brentford,West Ham United,williamhill,William Hill,2.0,3.3,3.7,1.7,2.05,3.0,2.0
+95d920ae631e4c3d05782f74cafb8010,soccer_epl,EPL,2023-11-04T15:00:00Z,Everton,Brighton and Hove Albion,williamhill,William Hill,3.0,2.1,3.8,1.5,2.5,1.0,1.0
+f77d9e4a963ee0e68fb0f71d51fa6855,soccer_epl,EPL,2023-11-04T15:00:00Z,Burnley,Crystal Palace,williamhill,William Hill,2.8,2.6,3.0,2.05,1.7,0.0,2.0
+330ccff0621fbd93b991703a55bc3045,soccer_epl,EPL,2023-11-04T15:00:00Z,Sheffield United,Wolverhampton Wanderers,williamhill,William Hill,3.6,1.91,3.6,1.8,1.91,2.0,1.0
+e23f284f9be1986a3bdcbc63fdfeb5e9,soccer_epl,EPL,2023-11-04T17:30:00Z,Newcastle United,Arsenal,williamhill,William Hill,2.7,2.45,3.4,1.85,1.85,1.0,0.0
+2e4e068dd8799ba3fafa34acfab91fab,soccer_epl,EPL,2023-11-05T14:00:00Z,Nottingham Forest,Aston Villa,williamhill,William Hill,3.9,1.8,3.8,1.7,2.05,2.0,0.0
+d4be0bb766fcb90b5f0c7dfc5fe3e9fd,soccer_epl,EPL,2023-11-05T16:30:00Z,Luton,Liverpool,williamhill,William Hill,11.0,1.2,6.5,1.36,3.0,1.0,1.0
+f9797be65a325bc844892ebd2dd41a98,soccer_epl,EPL,2023-11-06T20:00:00Z,Tottenham Hotspur,Chelsea,williamhill,William Hill,2.1,3.0,3.7,1.67,2.1,1.0,4.0
+d9d1c599c4d5524c8a47dc8c9b3a035c,soccer_france_ligue_one,Ligue 1 - France,2023-11-03T20:00:00Z,Paris Saint Germain,Montpellier,williamhill,William Hill,1.25,10.0,6.0,1.36,3.0,3.0,0.0
+0be043b6494bd36e39fa769a2598af98,soccer_france_ligue_one,Ligue 1 - France,2023-11-04T16:00:00Z,Lorient,RC Lens,williamhill,William Hill,5.5,1.6,3.8,1.73,2.0,0.0,0.0
+c7e8e6a8a6d9d0142fcd52d8366ef814,soccer_france_ligue_one,Ligue 1 - France,2023-11-04T20:00:00Z,Marseille,Lille,williamhill,William Hill,2.15,3.1,3.5,1.8,1.91,0.0,0.0
+dcf2b181cf2ad428d8a185137236e3ab,soccer_france_ligue_one,Ligue 1 - France,2023-11-05T12:00:00Z,Lyon,Metz,williamhill,William Hill,1.65,4.6,4.0,1.67,2.1,1.0,1.0
+e3c14a044d6576e15d9e5bc5a2c8a32e,soccer_france_ligue_one,Ligue 1 - France,2023-11-05T14:00:00Z,Strasbourg,Clermont,williamhill,William Hill,2.3,3.0,3.25,2.1,1.67,0.0,0.0
+80233cba668d09bd491fe6dea66721a3,soccer_france_ligue_one,Ligue 1 - France,2023-11-05T14:00:00Z,Toulouse,Le Havre,williamhill,William Hill,2.1,3.3,3.4,1.91,1.8,1.0,2.0
+9e674bc38aadf2a21991bfb25f4fe9cb,soccer_france_ligue_one,Ligue 1 - France,2023-11-05T14:00:00Z,Nantes,Stade de Reims,williamhill,William Hill,2.75,2.45,3.25,2.05,1.7,0.0,1.0
+b64ed81dcff6f18783a604cdd123c84a,soccer_france_ligue_one,Ligue 1 - France,2023-11-05T16:05:00Z,AS Monaco,Brest,williamhill,William Hill,1.67,4.4,4.0,1.6,2.25,2.0,0.0
+c92d7cda3b8b6f7e5274c83ebc2bed96,soccer_france_ligue_one,Ligue 1 - France,2023-11-05T19:45:00Z,Nice,Rennes,williamhill,William Hill,2.0,3.5,3.4,2.0,1.73,2.0,0.0
+bb870de0203d398e342ca820442bba22,soccer_spain_la_liga,La Liga - Spain,2023-11-03T20:00:00Z,Las Palmas,Atlético Madrid,williamhill,William Hill,5.5,1.57,3.9,1.85,1.85,2.0,1.0
+b3d0e2d9d077148e1f0806d77ba31ad5,soccer_spain_la_liga,La Liga - Spain,2023-11-04T13:00:00Z,CA Osasuna,Girona,williamhill,William Hill,2.7,2.45,3.4,1.8,1.91,2.0,4.0
+4f45b64db07e8c99584449d0542e00a1,soccer_spain_la_liga,La Liga - Spain,2023-11-04T15:15:00Z,Real Betis,Mallorca,williamhill,William Hill,1.85,4.33,3.3,2.25,1.6,2.0,0.0
+6f0ad562e87612f275a6329d59e5dd41,soccer_spain_la_liga,La Liga - Spain,2023-11-04T17:30:00Z,Celta Vigo,Sevilla,williamhill,William Hill,2.4,2.75,3.4,1.85,1.85,1.0,1.0
+c66bcd35197df1e5caec3bf306d5282c,soccer_spain_la_liga,La Liga - Spain,2023-11-04T20:00:00Z,Real Sociedad,Barcelona,williamhill,William Hill,3.1,2.15,3.5,1.85,1.85,0.0,1.0
+9e5f8a4e595dba1a09c05871bbdb9648,soccer_spain_la_liga,La Liga - Spain,2023-11-05T13:00:00Z,Alavés,Almería,williamhill,William Hill,1.75,4.4,3.6,1.85,1.85,1.0,0.0
+4b5ab73bb36530f4a02fac5c07672896,soccer_spain_la_liga,La Liga - Spain,2023-11-05T15:15:00Z,Valencia,Granada CF,williamhill,William Hill,1.6,5.0,4.0,1.8,1.91,1.0,0.0
+67e83c8e13ec22856e99ab79bf1e2706,soccer_spain_la_liga,La Liga - Spain,2023-11-05T17:30:00Z,Villarreal,Athletic Bilbao,williamhill,William Hill,2.75,2.3,3.6,1.73,2.0,2.0,3.0
+a1a018986c4b0c5a0ded148edd0140a0,soccer_spain_la_liga,La Liga - Spain,2023-11-05T20:00:00Z,Real Madrid,Rayo Vallecano,williamhill,William Hill,1.29,9.0,5.5,1.5,2.5,0.0,0.0
+db902c76f14541d4efa581b972be9d43,soccer_spain_la_liga,La Liga - Spain,2023-11-06T20:00:00Z,Getafe,Cádiz CF,williamhill,William Hill,1.91,4.5,3.1,2.5,1.5,1.0,0.0
+553195bc553f467896b8d57649a43ec3,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-03T19:30:00Z,SV Darmstadt 98,VfL Bochum,williamhill,William Hill,2.3,2.7,3.7,1.6,2.25,1.0,2.0
+aa4af0b960d66fd2bb4b033fe61809b8,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-04T14:30:00Z,FC Koln,Augsburg,williamhill,William Hill,2.38,2.7,3.5,1.62,2.2,1.0,1.0
+7ef9d24dfe24c8f3c6c98990ae75826e,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-04T14:30:00Z,TSG Hoffenheim,Bayer Leverkusen,williamhill,William Hill,4.5,1.57,4.6,1.3,3.4,2.0,3.0
+7a70a5048d2ccf0de6ad9cf28d654bc8,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-04T14:30:00Z,SC Freiburg,Borussia Monchengladbach,williamhill,William Hill,2.05,3.1,3.75,1.6,2.25,3.0,3.0
+0d265ba15ff3d209bbff7b3d65863148,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-04T14:30:00Z,Union Berlin,Eintracht Frankfurt,williamhill,William Hill,2.45,2.75,3.3,1.91,1.8,0.0,3.0
+5e70d1cb6c871364e851552a33a77231,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-04T14:30:00Z,FSV Mainz 05,RB Leipzig,williamhill,William Hill,5.0,1.57,4.2,1.57,2.3,2.0,0.0
+ebadf308ead528ef2e814a34a4997694,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-04T17:30:00Z,Borussia Dortmund,Bayern Munich,williamhill,William Hill,3.7,1.75,4.33,1.36,3.0,0.0,4.0
+7545abf9298ac3da072a28288815a359,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-05T14:30:00Z,VfL Wolfsburg,Werder Bremen,williamhill,William Hill,1.67,4.2,4.2,1.4,2.75,2.0,2.0
+3511e9871d4401259f4027e552afa825,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-05T16:30:00Z,FC Heidenheim,VfB Stuttgart,williamhill,William Hill,4.33,1.67,4.2,1.44,2.62,2.0,0.0
+2370bf384ef3bee87fb89ef6a91e771b,soccer_italy_serie_a,Serie A - Italy,2023-11-10T17:30:00Z,Sassuolo,Salernitana,williamhill,William Hill,1.7,4.33,4.0,1.6,2.25,2.0,2.0
+5585f9ba47c99636a5bb04a46c5d7746,soccer_italy_serie_a,Serie A - Italy,2023-11-10T19:45:00Z,Genoa,Hellas Verona FC,williamhill,William Hill,1.95,3.8,3.3,2.25,1.6,1.0,0.0
+a92d08fed3a0d80a3cf465b73d0ddef3,soccer_italy_serie_a,Serie A - Italy,2023-11-11T14:00:00Z,Lecce,AC Milan,williamhill,William Hill,5.5,1.62,3.7,2.05,1.7,2.0,2.0
+4e7ba90dc93f37b1b0b031c119f38fd8,soccer_italy_serie_a,Serie A - Italy,2023-11-11T17:00:00Z,Juventus,Cagliari,williamhill,William Hill,1.33,8.5,4.75,1.7,2.05,2.0,1.0
+9d8693176d22983c4ecb1963393a895d,soccer_italy_serie_a,Serie A - Italy,2023-11-11T19:45:00Z,Monza,Torino,williamhill,William Hill,2.38,2.9,3.2,2.2,1.62,1.0,1.0
+36cfbe76d41a855d09d5f235131bac8b,soccer_italy_serie_a,Serie A - Italy,2023-11-12T11:30:00Z,Napoli,Empoli,williamhill,William Hill,1.2,12.0,6.5,1.4,2.75,0.0,1.0
+9a8a7284cfa782686cde3b048397a471,soccer_italy_serie_a,Serie A - Italy,2023-11-12T14:00:00Z,Udinese,Atalanta BC,williamhill,William Hill,3.6,1.95,3.5,1.8,1.91,1.0,1.0
+aa95ed27ecc576c1ee2fdd10e673f8a6,soccer_italy_serie_a,Serie A - Italy,2023-11-12T14:00:00Z,Fiorentina,Bologna,williamhill,William Hill,2.0,3.4,3.5,1.85,1.85,2.0,1.0
+14902357b62aa8567f8dd5d1ade564db,soccer_italy_serie_a,Serie A - Italy,2023-11-12T17:00:00Z,Lazio,AS Roma,williamhill,William Hill,2.88,2.45,3.1,2.25,1.6,0.0,0.0
+9100efd9b1f1fd7463f9d557a82ef7f8,soccer_italy_serie_a,Serie A - Italy,2023-11-12T19:45:00Z,Inter Milan,Frosinone,williamhill,William Hill,1.15,15.0,7.0,1.33,3.25,2.0,0.0
+8bedee5c03bbc287c1a4058b924110da,soccer_epl,EPL,2023-11-11T12:30:00Z,Wolverhampton Wanderers,Tottenham Hotspur,williamhill,William Hill,3.0,2.15,3.7,1.57,2.3,2.0,1.0
+cc60420ead345d747ccb88dd51ceed31,soccer_epl,EPL,2023-11-11T15:00:00Z,Arsenal,Burnley,williamhill,William Hill,1.15,15.0,7.0,1.44,2.62,3.0,1.0
+32f31abcdd421b752aa94deccd5ace3d,soccer_epl,EPL,2023-11-11T15:00:00Z,Crystal Palace,Everton,williamhill,William Hill,2.38,3.0,3.2,2.1,1.67,2.0,3.0
+284cfe2b6e96b7b6fd7181d23fdd497f,soccer_epl,EPL,2023-11-11T15:00:00Z,Manchester United,Luton,williamhill,William Hill,1.29,9.0,5.5,1.53,2.38,1.0,0.0
+b6b84857cc01b13df6ecb3fefdbe77fc,soccer_epl,EPL,2023-11-11T17:30:00Z,Bournemouth,Newcastle United,williamhill,William Hill,4.2,1.75,3.8,1.62,2.2,2.0,0.0
+71556be3250ba24694bf32d8fb01762c,soccer_epl,EPL,2023-11-12T14:00:00Z,Aston Villa,Fulham,williamhill,William Hill,1.5,5.8,4.2,1.62,2.2,3.0,1.0
+4ea1aee43fd1e3905feae33d21030523,soccer_epl,EPL,2023-11-12T14:00:00Z,Liverpool,Brentford,williamhill,William Hill,1.36,7.0,5.0,1.4,2.75,3.0,0.0
+57039c4c1858482a8c81ed847914ef73,soccer_epl,EPL,2023-11-12T14:00:00Z,Brighton and Hove Albion,Sheffield United,williamhill,William Hill,1.2,11.0,6.5,1.36,3.0,1.0,1.0
+39fb3c39238d0954ca4e7e9a920b24b6,soccer_epl,EPL,2023-11-12T14:00:00Z,West Ham United,Nottingham Forest,williamhill,William Hill,1.83,3.8,3.7,1.73,2.0,3.0,2.0
+fd269f7ec3b470512d0e8285756113ff,soccer_epl,EPL,2023-11-12T16:30:00Z,Chelsea,Manchester City,williamhill,William Hill,4.75,1.67,3.75,1.73,2.0,4.0,4.0
+f581371662d131ac475ddd021d70e450,soccer_france_ligue_one,Ligue 1 - France,2023-11-10T20:00:00Z,Montpellier,Nice,williamhill,William Hill,3.1,2.2,3.4,2.0,1.73,0.0,0.0
+0551c402e7cfe26ee0c974d321fce3d3,soccer_france_ligue_one,Ligue 1 - France,2023-11-11T16:00:00Z,Stade de Reims,Paris Saint Germain,williamhill,William Hill,5.5,1.5,4.4,1.6,2.25,0.0,3.0
+dd517694a28edb9997926919c85d17de,soccer_france_ligue_one,Ligue 1 - France,2023-11-11T20:00:00Z,Le Havre,AS Monaco,williamhill,William Hill,4.4,1.7,3.9,1.7,2.05,0.0,0.0
+7c68975563b5a9991acfcb87f67d76a4,soccer_france_ligue_one,Ligue 1 - France,2023-11-12T14:00:00Z,Clermont,Lorient,williamhill,William Hill,2.05,3.5,3.3,2.05,1.7,1.0,0.0
+b30dae4a6889b354b0c19bdbcdf4ca2b,soccer_france_ligue_one,Ligue 1 - France,2023-11-12T14:00:00Z,Lille,Toulouse,williamhill,William Hill,1.53,5.5,4.2,1.7,2.05,1.0,1.0
+42b60eb9318416751ac727f41e97eaae,soccer_france_ligue_one,Ligue 1 - France,2023-11-12T14:00:00Z,Metz,Nantes,williamhill,William Hill,2.88,2.3,3.4,1.91,1.8,3.0,1.0
+1939894bc1b6c9a49c56903197a75096,soccer_france_ligue_one,Ligue 1 - France,2023-11-12T16:05:00Z,Rennes,Lyon,williamhill,William Hill,1.65,4.5,4.0,1.62,2.2,0.0,1.0
+4e7323a0e7962f1895d6266f02ae7b16,soccer_france_ligue_one,Ligue 1 - France,2023-11-12T19:45:00Z,RC Lens,Marseille,williamhill,William Hill,2.25,2.9,3.5,1.85,1.85,1.0,0.0
+41b89eb90ffb903b88ed5408f229b3bc,soccer_spain_la_liga,La Liga - Spain,2023-11-10T20:00:00Z,Athletic Bilbao,Celta Vigo,williamhill,William Hill,1.53,5.8,4.0,1.91,1.8,4.0,3.0
+fbe004d6e25c3c1c5c5b02f86d5bb66a,soccer_spain_la_liga,La Liga - Spain,2023-11-11T13:00:00Z,Rayo Vallecano,Girona,williamhill,William Hill,2.8,2.3,3.5,1.73,2.0,1.0,2.0
+478ae7035051b3af237784ea80063f32,soccer_spain_la_liga,La Liga - Spain,2023-11-11T15:15:00Z,Almería,Real Sociedad,williamhill,William Hill,4.4,1.7,3.9,1.73,2.0,1.0,3.0
+b674852f4e16eac1447f92a4cbe33093,soccer_spain_la_liga,La Liga - Spain,2023-11-11T17:30:00Z,CA Osasuna,Las Palmas,williamhill,William Hill,1.91,4.0,3.3,2.25,1.6,1.0,1.0
+46ad716b72ed9dfb8595b888c70fd5ed,soccer_spain_la_liga,La Liga - Spain,2023-11-11T17:30:00Z,Granada CF,Getafe,williamhill,William Hill,2.4,2.9,3.2,2.25,1.6,1.0,1.0
+80d35a0ccbf3b291a754ff23ca5bdeb8,soccer_spain_la_liga,La Liga - Spain,2023-11-11T20:00:00Z,Real Madrid,Valencia,williamhill,William Hill,1.29,9.5,5.5,1.6,2.25,5.0,1.0
+cd3741b36ee621300d6cebb48fd31ca9,soccer_spain_la_liga,La Liga - Spain,2023-11-12T15:15:00Z,Barcelona,Alavés,williamhill,William Hill,1.22,12.0,5.8,1.5,2.5,2.0,1.0
+e21eec91a99e7a39ef750df3ad2641a0,soccer_spain_la_liga,La Liga - Spain,2023-11-12T17:30:00Z,Sevilla,Real Betis,williamhill,William Hill,2.1,3.2,3.5,1.85,1.85,1.0,1.0
+1a04c075779a813d4be51c6a1b1d0d7d,soccer_spain_la_liga,La Liga - Spain,2023-11-12T20:00:00Z,Atlético Madrid,Villarreal,williamhill,William Hill,1.33,8.0,5.0,1.5,2.5,3.0,1.0
+c640db638e852da5f23fb54d7d1e5a5a,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-10T19:30:00Z,Borussia Monchengladbach,VfL Wolfsburg,williamhill,William Hill,2.3,2.7,3.75,1.53,2.38,4.0,0.0
+e7cb7990e67f4a9973b53792c78abea7,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-11T14:30:00Z,Augsburg,TSG Hoffenheim,williamhill,William Hill,2.4,2.5,3.8,1.44,2.62,1.0,1.0
+1b6b544e867afc5b78dcc8ee91733473,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-11T14:30:00Z,Bayern Munich,FC Heidenheim,williamhill,William Hill,1.04,26.0,13.0,1.14,5.0,4.0,2.0
+866f0ef45596c0856f7a4a3f7e3d962c,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-11T14:30:00Z,VfB Stuttgart,Borussia Dortmund,williamhill,William Hill,2.38,2.6,3.8,1.4,2.75,2.0,1.0
+43ab94d2e58924033bec55a882c8e55c,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-11T14:30:00Z,SV Darmstadt 98,FSV Mainz 05,williamhill,William Hill,2.9,2.25,3.5,1.67,2.1,0.0,0.0
+a876e46f0de5bdabe9348361e7ad8ec1,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-11T17:30:00Z,VfL Bochum,FC Koln,williamhill,William Hill,2.38,2.7,3.6,1.62,2.2,1.0,1.0
+5a50f6a52d385249f3452d048df16015,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-12T14:30:00Z,Bayer Leverkusen,Union Berlin,williamhill,William Hill,1.25,10.0,5.8,1.53,2.38,4.0,0.0
+00220b3fd00ba67e8ff1a99bd01a855a,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-12T16:30:00Z,Werder Bremen,Eintracht Frankfurt,williamhill,William Hill,2.88,2.25,3.6,1.67,2.1,2.0,2.0
+052c8b0e96140decd0792baaa98f15ae,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-12T18:30:00Z,RB Leipzig,SC Freiburg,williamhill,William Hill,1.4,6.5,4.8,1.5,2.5,3.0,1.0
+f4142f38ce012bbaeaca8b22e7a5e7e0,soccer_italy_serie_a,Serie A - Italy,2023-11-25T14:00:00Z,Salernitana,Lazio,williamhill,William Hill,4.4,1.73,3.7,1.91,1.8,2.0,1.0
+8d533421b4799a5b1d81fc27c2d01b40,soccer_italy_serie_a,Serie A - Italy,2023-11-25T17:00:00Z,Atalanta BC,Napoli,williamhill,William Hill,2.5,2.6,3.4,1.7,2.05,1.0,2.0
+00643a95ca603bd680cb65d9383a61f2,soccer_italy_serie_a,Serie A - Italy,2023-11-25T19:45:00Z,AC Milan,Fiorentina,williamhill,William Hill,2.05,3.4,3.4,1.85,1.85,1.0,0.0
+8c21596c3fddf10cf14ee8ff6ca6bc3b,soccer_italy_serie_a,Serie A - Italy,2023-11-26T11:30:00Z,Cagliari,Monza,williamhill,William Hill,2.8,2.38,3.4,1.85,1.85,1.0,1.0
+7035731445388ad9e1aab34a1406d756,soccer_italy_serie_a,Serie A - Italy,2023-11-26T14:00:00Z,Empoli,Sassuolo,williamhill,William Hill,2.5,2.45,3.7,1.62,2.2,3.0,4.0
+dff544e609878cb0d5aca6c56c5d1ea0,soccer_italy_serie_a,Serie A - Italy,2023-11-26T14:00:00Z,Frosinone,Genoa,williamhill,William Hill,2.45,2.8,3.25,2.0,1.73,2.0,1.0
+55f40c8a2e59e46f60eefadecb7e8b9e,soccer_italy_serie_a,Serie A - Italy,2023-11-26T17:00:00Z,AS Roma,Udinese,williamhill,William Hill,1.6,5.5,3.8,1.91,1.8,3.0,1.0
+f11ab179156cbd86a31877a48f3522ee,soccer_italy_serie_a,Serie A - Italy,2023-11-26T19:45:00Z,Juventus,Inter Milan,williamhill,William Hill,3.2,2.15,3.4,2.05,1.7,1.0,1.0
+05a094df76aa93fa2afab4c1b1976aa8,soccer_italy_serie_a,Serie A - Italy,2023-11-27T17:30:00Z,Hellas Verona FC,Lecce,williamhill,William Hill,2.5,2.9,3.0,2.38,1.53,2.0,2.0
+55ffa7077eba16c1a93f995273b86f83,soccer_italy_serie_a,Serie A - Italy,2023-11-27T19:45:00Z,Bologna,Torino,williamhill,William Hill,2.25,3.25,3.1,2.25,1.6,2.0,0.0
+4acd8f2675ca847ba33eea3664f6c0bb,soccer_epl,EPL,2023-11-25T12:30:00Z,Manchester City,Liverpool,williamhill,William Hill,1.65,4.2,4.33,1.44,2.62,1.0,1.0
+90bf99259813b52c75ee2aba5d42b654,soccer_epl,EPL,2023-11-25T15:00:00Z,Sheffield United,Bournemouth,williamhill,William Hill,3.1,2.1,3.6,1.73,2.0,1.0,3.0
+092c34b4e1078f45256cddc569532981,soccer_epl,EPL,2023-11-25T15:00:00Z,Nottingham Forest,Brighton and Hove Albion,williamhill,William Hill,3.0,2.15,3.6,1.73,2.0,2.0,3.0
+e5eab69b037b798f8cd688d48445f5a6,soccer_epl,EPL,2023-11-25T15:00:00Z,Burnley,West Ham United,williamhill,William Hill,3.25,2.0,3.7,1.7,2.05,1.0,2.0
+8d7f2b52124699c72c5e57ec59b37f41,soccer_epl,EPL,2023-11-25T15:00:00Z,Newcastle United,Chelsea,williamhill,William Hill,2.45,2.6,3.5,1.73,2.0,4.0,1.0
+f79c939c5f96eb2dd8efcb52f11ccb88,soccer_epl,EPL,2023-11-25T15:00:00Z,Luton,Crystal Palace,williamhill,William Hill,3.4,2.05,3.4,2.0,1.73,2.0,1.0
+1766194919f1cbfbd846576434f0499b,soccer_epl,EPL,2023-11-25T17:30:00Z,Brentford,Arsenal,williamhill,William Hill,4.33,1.73,3.75,1.8,1.91,,1.0
+1274e00f4f8e15ca717d17e78a12d73e,soccer_epl,EPL,2023-11-26T14:00:00Z,Tottenham Hotspur,Aston Villa,williamhill,William Hill,2.2,2.75,3.9,1.44,2.62,1.0,2.0
+25d807513a34bdf91a61b363ef0a985f,soccer_epl,EPL,2023-11-26T16:30:00Z,Everton,Manchester United,williamhill,William Hill,2.7,2.38,3.6,1.73,2.0,0.0,3.0
+1a0f89babacc99aebc55f4c83428c472,soccer_epl,EPL,2023-11-27T20:00:00Z,Fulham,Wolverhampton Wanderers,williamhill,William Hill,2.3,2.9,3.4,2.05,1.7,3.0,2.0
+f50fdcfb06f35867801400d530d777c5,soccer_france_ligue_one,Ligue 1 - France,2023-11-24T20:00:00Z,Paris Saint Germain,AS Monaco,williamhill,William Hill,1.4,6.5,5.0,1.36,3.0,5.0,2.0
+e038341f8bdfd268689dccaf3457e241,soccer_france_ligue_one,Ligue 1 - France,2023-11-25T16:00:00Z,Clermont,RC Lens,williamhill,William Hill,3.6,1.95,3.5,1.91,1.8,0.0,3.0
+41ea453b9da876686a0bea6beeec5b4b,soccer_france_ligue_one,Ligue 1 - France,2023-11-25T20:00:00Z,Strasbourg,Marseille,williamhill,William Hill,3.75,1.85,3.7,1.91,1.8,1.0,1.0
+4ea207c786e8ca75df27a59b9d28968f,soccer_france_ligue_one,Ligue 1 - France,2023-11-26T12:00:00Z,Nice,Toulouse,williamhill,William Hill,1.44,7.0,4.2,1.85,1.85,1.0,0.0
+57bf6b4fcd9b08654e6d73c06ceb5788,soccer_france_ligue_one,Ligue 1 - France,2023-11-26T14:00:00Z,Montpellier,Brest,williamhill,William Hill,2.2,3.0,3.5,1.85,1.85,1.0,3.0
+f1327e6b0e7fff2ca8624ba1c9e3da52,soccer_france_ligue_one,Ligue 1 - France,2023-11-26T14:00:00Z,Nantes,Le Havre,williamhill,William Hill,2.0,3.5,3.4,2.0,1.73,0.0,0.0
+fb320499a5e8e4c6969f052461a420a2,soccer_france_ligue_one,Ligue 1 - France,2023-11-26T14:00:00Z,Lorient,Metz,williamhill,William Hill,1.91,3.75,3.5,2.0,1.73,2.0,3.0
+4a996dd7dff015d12ac9805ece8df62f,soccer_france_ligue_one,Ligue 1 - France,2023-11-26T16:05:00Z,Rennes,Stade de Reims,williamhill,William Hill,1.91,3.7,3.6,1.8,1.91,3.0,1.0
+63a6cb51f8d7075d0a7788c7bd334477,soccer_france_ligue_one,Ligue 1 - France,2023-11-26T19:45:00Z,Lyon,Lille,williamhill,William Hill,2.75,2.3,3.6,1.8,1.91,0.0,2.0
+37f0200dffc234af7f435121c7518b26,soccer_spain_la_liga,La Liga - Spain,2023-11-24T20:00:00Z,Alavés,Granada CF,williamhill,William Hill,1.8,4.33,3.6,1.91,1.8,3.0,1.0
+9780e56155fea04959f658b47a873555,soccer_spain_la_liga,La Liga - Spain,2023-11-25T13:00:00Z,Rayo Vallecano,Barcelona,williamhill,William Hill,4.8,1.6,4.2,1.67,2.1,1.0,1.0
+511414df316a2ca86df29746d90e296a,soccer_spain_la_liga,La Liga - Spain,2023-11-25T15:15:00Z,Valencia,Celta Vigo,williamhill,William Hill,2.1,3.25,3.4,2.05,1.7,0.0,0.0
+e8f4dcb2edf1af43e7246b008232005f,soccer_spain_la_liga,La Liga - Spain,2023-11-25T17:30:00Z,Getafe,Almería,williamhill,William Hill,1.62,5.5,3.8,1.91,1.8,2.0,1.0
+c4563986fbf6aa34956b6643df429a06,soccer_spain_la_liga,La Liga - Spain,2023-11-25T20:00:00Z,Atlético Madrid,Mallorca,williamhill,William Hill,1.33,8.5,4.75,1.85,1.85,1.0,0.0
+cee5fd8f89562181a6c1172f0727a2e8,soccer_spain_la_liga,La Liga - Spain,2023-11-26T13:00:00Z,Villarreal,CA Osasuna,williamhill,William Hill,2.15,3.1,3.5,1.8,1.91,3.0,1.0
+60ebef595bde8e2f0e24fe87552c0724,soccer_spain_la_liga,La Liga - Spain,2023-11-26T15:15:00Z,Real Sociedad,Sevilla,williamhill,William Hill,1.7,4.6,3.7,1.91,1.8,2.0,1.0
+83fe4535aef77b9c6a77e389bc07279f,soccer_spain_la_liga,La Liga - Spain,2023-11-26T17:30:00Z,Cádiz CF,Real Madrid,williamhill,William Hill,6.0,1.5,4.4,1.7,2.05,0.0,3.0
+3430bf71f3728640aace5b08cf031117,soccer_spain_la_liga,La Liga - Spain,2023-11-26T20:00:00Z,Real Betis,Las Palmas,williamhill,William Hill,1.65,5.0,3.7,2.0,1.73,1.0,0.0
+0ce321c96d1fe6996cca4a37c6a4d0a4,soccer_spain_la_liga,La Liga - Spain,2023-11-27T20:00:00Z,Girona,Athletic Bilbao,williamhill,William Hill,2.25,2.88,3.6,1.62,2.2,1.0,1.0
+5e2eea02691524ed96816d9183a23c39,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-24T19:30:00Z,FC Koln,Bayern Munich,williamhill,William Hill,10.0,1.22,6.5,1.25,3.75,0.0,1.0
+81850dabdb404703f3ff7c096314ef9b,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-25T14:30:00Z,Union Berlin,Augsburg,williamhill,William Hill,1.91,3.6,3.7,1.85,1.85,1.0,1.0
+1f14d91aeeaa9e517e93ff15e9eb0cce,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-25T14:30:00Z,Werder Bremen,Bayer Leverkusen,williamhill,William Hill,5.8,1.44,4.8,1.36,3.0,0.0,3.0
+2ad196ee6440b0015a1a0f413a9b005a,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-25T14:30:00Z,Borussia Dortmund,Borussia Monchengladbach,williamhill,William Hill,1.44,5.8,5.0,1.33,3.25,4.0,2.0
+e3508f0352b92025d872f9fdca9253d3,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-25T14:30:00Z,VfL Wolfsburg,RB Leipzig,williamhill,William Hill,3.75,1.8,3.9,1.53,2.38,2.0,1.0
+faae9f1ce6f4cf2cf3625158c441e082,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-25T14:30:00Z,SC Freiburg,SV Darmstadt 98,williamhill,William Hill,1.55,5.5,4.2,1.6,2.25,1.0,1.0
+8366185458814410cb86e890986dad51,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-25T17:30:00Z,Eintracht Frankfurt,VfB Stuttgart,williamhill,William Hill,2.6,2.45,3.6,1.62,2.2,1.0,2.0
+216d7da5c4f8609b44e4875f49baab1f,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-26T14:30:00Z,FC Heidenheim,VfL Bochum,williamhill,William Hill,2.2,2.9,3.6,1.62,2.2,0.0,0.0
+b00108d133ee67c82ea7e090731ef45a,soccer_germany_bundesliga,Bundesliga - Germany,2023-11-26T16:30:00Z,TSG Hoffenheim,FSV Mainz 05,williamhill,William Hill,1.91,3.4,3.9,1.57,2.3,1.0,1.0
+f030611d5d542195c5dd0836c8079257,soccer_italy_serie_a,Serie A - Italy,2023-12-01T19:45:00Z,Monza,Juventus,williamhill,William Hill,3.4,2.0,3.5,2.0,1.73,1.0,2.0
+58276bb82505e3d31a8204d7b90fb46f,soccer_italy_serie_a,Serie A - Italy,2023-12-02T14:00:00Z,Genoa,Empoli,williamhill,William Hill,1.8,4.2,3.6,2.05,1.7,0.0,0.0
+bcfa5e80ac08ec6a0c8c34b05d899c11,soccer_italy_serie_a,Serie A - Italy,2023-12-02T17:00:00Z,Lazio,Cagliari,williamhill,William Hill,1.53,5.5,4.2,1.91,1.8,0.0,0.0
+9ffcf56fbfcb7a1cb1b48caea6a37052,soccer_italy_serie_a,Serie A - Italy,2023-12-02T19:45:00Z,AC Milan,Frosinone,williamhill,William Hill,1.3,9.0,5.0,1.7,2.05,0.0,0.0
+b397aed4c996d6626eeeb8a1282288c2,soccer_italy_serie_a,Serie A - Italy,2023-12-03T14:00:00Z,Fiorentina,Salernitana,williamhill,William Hill,1.44,6.5,4.5,1.7,2.05,0.0,0.0
+79e570d1c0c6da727ea62f560caf1025,soccer_italy_serie_a,Serie A - Italy,2023-12-03T14:00:00Z,Udinese,Hellas Verona FC,williamhill,William Hill,1.75,4.5,3.5,2.1,1.67,0.0,0.0
+1129ce1ca134d2b2c96b01dc253b0976,soccer_italy_serie_a,Serie A - Italy,2023-12-03T17:00:00Z,Sassuolo,AS Roma,williamhill,William Hill,3.1,2.1,3.6,1.8,1.91,0.0,0.0
+03e483ebea2ea315ddd527f97b17dbe6,soccer_italy_serie_a,Serie A - Italy,2023-12-03T19:45:00Z,Napoli,Inter Milan,williamhill,William Hill,2.75,2.38,3.4,1.8,1.91,0.0,0.0
+9bb87c27c34daf8f159ac5c97aecf806,soccer_italy_serie_a,Serie A - Italy,2023-12-04T19:45:00Z,Torino,Atalanta BC,williamhill,William Hill,2.9,2.3,3.4,2.05,1.7,0.0,0.0
+4dbfa65a0679bdcda9b61afa7a7e3c73,soccer_epl,EPL,2023-12-02T15:00:00Z,Arsenal,Wolverhampton Wanderers,williamhill,William Hill,1.29,9.5,5.5,1.62,2.2,0.0,0.0
+3123c254e4285374168790364041d257,soccer_epl,EPL,2023-12-02T15:00:00Z,Brentford,Luton,williamhill,William Hill,1.44,6.5,4.5,1.73,2.0,0.0,0.0
+ff1e4f473f7a281fc62bb0c9e59a513d,soccer_epl,EPL,2023-12-02T15:00:00Z,Burnley,Sheffield United,williamhill,William Hill,1.91,3.6,3.7,1.8,1.91,0.0,0.0
+6fd9695259d6e280152ea0cc8fe06b4d,soccer_epl,EPL,2023-12-02T17:30:00Z,Nottingham Forest,Everton,williamhill,William Hill,2.5,2.6,3.4,1.91,1.8,0.0,0.0
+561901a41a114fb193d339e52465a71d,soccer_epl,EPL,2023-12-02T20:00:00Z,Newcastle United,Manchester United,williamhill,William Hill,1.91,3.5,3.7,1.73,2.0,0.0,0.0
+7f169f45d56e4ff5ef2ecb34c6e168c9,soccer_epl,EPL,2023-12-03T14:00:00Z,Bournemouth,Aston Villa,williamhill,William Hill,3.5,1.91,3.9,1.57,2.3,0.0,0.0
+87c0fa4d199f56577a1709ad7e411958,soccer_epl,EPL,2023-12-03T14:00:00Z,Chelsea,Brighton and Hove Albion,williamhill,William Hill,1.83,3.6,3.9,1.6,2.25,0.0,0.0
+82357056467b283b11850eea40d62e82,soccer_epl,EPL,2023-12-03T14:00:00Z,West Ham United,Crystal Palace,williamhill,William Hill,1.95,3.5,3.6,1.73,2.0,0.0,0.0
+30cbf3e94137963bfe009c06e02386ea,soccer_epl,EPL,2023-12-03T14:00:00Z,Liverpool,Fulham,williamhill,William Hill,1.22,11.0,6.0,1.44,2.62,0.0,0.0
+67c3f64f5a61b1b7c10e7120c36af5b0,soccer_epl,EPL,2023-12-03T16:30:00Z,Manchester City,Tottenham Hotspur,williamhill,William Hill,1.3,8.0,5.5,1.5,2.5,0.0,0.0
+0bcc5954d9c085d7533d7eb1775de888,soccer_france_ligue_one,Ligue 1 - France,2023-12-01T20:00:00Z,Stade de Reims,Strasbourg,williamhill,William Hill,1.7,4.4,3.8,1.8,1.91,2.0,1.0
+c4094fe3fa7de472c2a1c82f6d1a2591,soccer_france_ligue_one,Ligue 1 - France,2023-12-02T16:00:00Z,RC Lens,Lyon,williamhill,William Hill,1.73,4.2,3.9,1.73,2.0,0.0,0.0
+e970e16449e6c3afb7bf4c51a6ca1645,soccer_france_ligue_one,Ligue 1 - France,2023-12-02T20:00:00Z,Nantes,Nice,williamhill,William Hill,3.6,1.95,3.5,2.05,1.7,0.0,0.0
+29515be37a2fb0329bed6bd48955983b,soccer_france_ligue_one,Ligue 1 - France,2023-12-03T12:00:00Z,Le Havre,Paris Saint Germain,williamhill,William Hill,7.5,1.35,5.0,1.53,2.38,0.0,0.0
+7d85cd77cf3f1b6572c3e8200b0c97c2,soccer_france_ligue_one,Ligue 1 - France,2023-12-03T14:00:00Z,AS Monaco,Montpellier,williamhill,William Hill,1.6,4.6,4.33,1.57,2.3,0.0,0.0
+10618442da45d1136f5017bbb8f9b3a4,soccer_france_ligue_one,Ligue 1 - France,2023-12-03T14:00:00Z,Brest,Clermont,williamhill,William Hill,1.95,3.6,3.5,2.0,1.73,0.0,0.0
+79e17bd5ba939d8d58d839f5eb3f1f7e,soccer_france_ligue_one,Ligue 1 - France,2023-12-03T14:00:00Z,Toulouse,Lorient,williamhill,William Hill,2.05,3.3,3.6,1.8,1.91,0.0,0.0
+d37dadbf37b7b618b6a5d00e1709d0e3,soccer_france_ligue_one,Ligue 1 - France,2023-12-03T16:05:00Z,Lille,Metz,williamhill,William Hill,1.3,8.5,5.0,1.7,2.05,0.0,0.0
+1e2e65812a83aef3ea524c3063210f5a,soccer_france_ligue_one,Ligue 1 - France,2023-12-03T19:45:00Z,Marseille,Rennes,williamhill,William Hill,1.8,3.9,3.8,1.73,2.0,0.0,0.0
+c389d0a279d6b3b58ee17e680d239f79,soccer_spain_la_liga,La Liga - Spain,2023-11-29T20:00:00Z,Mallorca,Cádiz CF,williamhill,William Hill,1.83,4.4,3.3,2.38,1.53,0.0,0.0
+2ea298bc7c0a104172ebb7afbbcdbc63,soccer_spain_la_liga,La Liga - Spain,2023-12-01T20:00:00Z,Las Palmas,Getafe,williamhill,William Hill,2.38,3.1,3.1,2.62,1.44,2.0,0.0
+f38a11dd7e84fda36cbf6330f10ccf3a,soccer_spain_la_liga,La Liga - Spain,2023-12-02T13:00:00Z,Girona,Valencia,williamhill,William Hill,1.67,4.5,3.9,1.8,1.91,0.0,0.0
+e6842b33a3d87c29ec4fa27887dd7e3e,soccer_spain_la_liga,La Liga - Spain,2023-12-02T15:15:00Z,Athletic Bilbao,Rayo Vallecano,williamhill,William Hill,1.6,5.0,4.0,1.8,1.91,0.0,0.0
+a9e115b01afc91465d089125a8db1f27,soccer_spain_la_liga,La Liga - Spain,2023-12-02T17:30:00Z,Real Madrid,Granada CF,williamhill,William Hill,1.12,17.0,8.0,1.4,2.75,0.0,0.0
+037f525a4b3c3a5e712dc6aa2acbe8af,soccer_spain_la_liga,La Liga - Spain,2023-12-02T20:00:00Z,CA Osasuna,Real Sociedad,williamhill,William Hill,3.1,2.3,3.2,2.5,1.5,0.0,0.0
+1e1275083d15ffe92be8819d70a2abc5,soccer_spain_la_liga,La Liga - Spain,2023-12-03T13:00:00Z,Mallorca,Alavés,williamhill,William Hill,2.1,3.5,3.2,2.62,1.44,0.0,0.0
+68a8a6fe85f82dfb4c2cd1780cfdd51c,soccer_spain_la_liga,La Liga - Spain,2023-12-03T15:15:00Z,Almería,Real Betis,williamhill,William Hill,3.25,2.0,3.7,1.8,1.91,0.0,0.0
+4cf6e08159d726abb08acf7b11feb263,soccer_spain_la_liga,La Liga - Spain,2023-12-03T17:30:00Z,Sevilla,Villarreal,williamhill,William Hill,1.91,3.5,3.75,1.73,2.0,0.0,0.0
+c62eb0a6fce5da654141f62ad06095c2,soccer_spain_la_liga,La Liga - Spain,2023-12-03T20:00:00Z,Barcelona,Atlético Madrid,williamhill,William Hill,1.85,3.7,3.75,1.7,2.05,0.0,0.0
+9d9c394b07e811ea678eed4b665bda5e,soccer_spain_la_liga,La Liga - Spain,2023-12-04T20:00:00Z,Celta Vigo,Cádiz CF,williamhill,William Hill,1.7,4.6,3.7,1.91,1.8,0.0,0.0
+a0e3c90a44e6585c0601fbcca9915cb2,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-01T19:30:00Z,SV Darmstadt 98,FC Koln,williamhill,William Hill,2.6,2.4,3.6,1.67,2.1,0.0,1.0
+82a2fd36645b6eb167f60121e9ad8a5b,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-02T14:30:00Z,Bayern Munich,Union Berlin,williamhill,William Hill,1.12,17.0,8.0,1.3,3.4,0.0,0.0
+f716aecede199e20a80986e2bbb31f8b,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-02T14:30:00Z,Borussia Monchengladbach,TSG Hoffenheim,williamhill,William Hill,2.1,2.88,4.0,1.44,2.62,0.0,0.0
+a4924b928f7fee1e5dfe763b5617a37a,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-02T14:30:00Z,RB Leipzig,FC Heidenheim,williamhill,William Hill,1.2,11.0,6.5,1.4,2.75,0.0,0.0
+e1cb2d4c9e1e466dea16b57ac243a64a,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-02T14:30:00Z,VfL Bochum,VfL Wolfsburg,williamhill,William Hill,2.62,2.38,3.7,1.67,2.1,0.0,0.0
+aa59594855e3769ceff45248b4c347d8,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-02T17:30:00Z,VfB Stuttgart,Werder Bremen,williamhill,William Hill,1.4,6.5,4.8,1.53,2.38,0.0,0.0
+77ab00e28fa527fb280cd29c913422fb,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-03T14:30:00Z,FSV Mainz 05,SC Freiburg,williamhill,William Hill,2.25,2.88,3.6,1.73,2.0,0.0,0.0
+7fb528a301e919815faec9a91ff45672,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-03T16:30:00Z,Bayer Leverkusen,Borussia Dortmund,williamhill,William Hill,1.62,4.4,4.33,1.44,2.62,0.0,0.0
+e8ff5fb60cd44ae5be0c3afa0fab83d5,soccer_germany_bundesliga,Bundesliga - Germany,2023-12-03T18:30:00Z,Augsburg,Eintracht Frankfurt,williamhill,William Hill,2.6,2.5,3.5,1.73,2.0,0.0,0.0

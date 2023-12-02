@@ -142,3 +142,18 @@ def calculate_normalized_difference(cumulative_list, reference_list):
         normalized_diff_list.append(cumulative_values[i] - reference_list[i])
 
     return normalized_diff_list
+
+# Calculate the ratio (cumulative) between the gained and the wagered money 
+def calculate_cumulative_gain_ratio(act_wins, exp_wins):
+    if len(act_wins) != len(exp_wins):
+        raise Exception("Input lists are not the same size")
+    
+    cum_gain_ratio = []
+    cum_gain = 0.
+    for i in range(len(act_wins)):        
+        win_odd = 1./exp_wins[i]
+        cum_gain += act_wins[i]*win_odd
+        cum_gain_ratio.append((cum_gain)/(i+1))
+
+    return cum_gain_ratio    
+
