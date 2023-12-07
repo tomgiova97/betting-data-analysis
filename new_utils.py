@@ -49,8 +49,9 @@ def calc_expected_outcomes(is_team_home, home_win_odd, away_win_odd, draw_odd, u
         exp_over_2_5 = 1./over_2_5_odd
         return exp_win, exp_defeat, exp_draw, exp_under_2_5, exp_over_2_5
 
-def calc_team_data(team_name, team_df):
+def calc_team_data(team_name, team_df, only_home = False):
     dates = []
+    matches_home=[]
     wins = []
     exp_wins = []
     draws = []
@@ -65,6 +66,7 @@ def calc_team_data(team_name, team_df):
     for index, row in team_df.iterrows():
         dates.append(row[COMMENCE_TIME])
         is_match_home = is_team_home(team_name, row[HOME_TEAM])
+        matches_home.append(convert_boolean_to_int(is_match_home))
         exp_outcomes = calc_expected_outcomes(is_match_home, row[HOME_WIN], row[AWAY_WIN]
                                               , row[DRAW], row[UNDER_2_5], row[OVER_2_5])
         exp_wins.append(exp_outcomes[0])
@@ -97,9 +99,15 @@ def calc_team_data(team_name, team_df):
                 draws.append(0)
 
    ## Collect all the data found to create a TeamDate object
-    team_data = TeamData(team_name, dates, wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5 )
+    team_data = TeamData(team_name, dates, matches_home, wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5 )
 
     return team_data
+
+def convert_boolean_to_int(boolean):
+    if(boolean):
+        return 1
+    else:
+        return 0
 
 def gen_df_columns_dictionary(df, col_names):
     col_dictionary = {}
@@ -144,16 +152,18 @@ def calculate_normalized_difference(cumulative_list, reference_list):
     return normalized_diff_list
 
 # Calculate the ratio (cumulative) between the gained and the wagered money 
-def calculate_cumulative_gain_ratio(act_wins, exp_wins):
-    if len(act_wins) != len(exp_wins):
-        raise Exception("Input lists are not the same size")
+# If only_home=True, only the home matches are considered
+def calculate_cumulative_gain_ratio(act_wins, exp_wins, matches_home, only_home=False):
+    if ((len(act_wins) != len(exp_wins)) or (len(act_wins) != len(matches_home)) ):
+        raise Exception("Input lists have not the same dimension")
     
     cum_gain_ratio = []
     cum_gain = 0.
     for i in range(len(act_wins)):        
-        win_odd = 1./exp_wins[i]
-        cum_gain += act_wins[i]*win_odd
-        cum_gain_ratio.append((cum_gain)/(i+1))
+        if ((not only_home) or (matches_home[i]==1)):
+            win_odd = 1./exp_wins[i]
+            cum_gain += act_wins[i]*win_odd
+            cum_gain_ratio.append((cum_gain)/(i+1))
 
     return cum_gain_ratio    
 

@@ -1,8 +1,9 @@
 class TeamData:
 
-    def __init__(self, team_name, dates, wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5):
+    def __init__(self, team_name, dates, matches_home, wins, defeats, draws, exp_wins, exp_defeats, exp_draws, under_2_5, over_2_5, exp_under_2_5, exp_over_2_5):
         self.team_name = team_name
         self.dates = dates
+        self.matches_home = matches_home
         self.wins = wins
         self.defeats = defeats
         self.draws = draws
@@ -33,6 +34,7 @@ class TeamData:
         attributes = [
             f"team_name: {self.team_name}",
             f"dates: {self.dates}",
+            f"matches_home: {self.matches_home}",
             f"wins: {self.wins}",
             f"defeats: {self.defeats}",
             f"draws: {self.draws}",
