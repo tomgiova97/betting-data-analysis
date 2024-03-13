@@ -159,11 +159,13 @@ def calculate_cumulative_gain_ratio(act_wins, exp_wins, matches_home, only_home=
     
     cum_gain_ratio = []
     cum_gain = 0.
+    counter = 0.
     for i in range(len(act_wins)):        
         if ((not only_home) or (matches_home[i]==1)):
+            counter += 1
             win_odd = 1./exp_wins[i]
             cum_gain += act_wins[i]*win_odd
-            cum_gain_ratio.append((cum_gain)/(i+1))
+            cum_gain_ratio.append((cum_gain)/(counter))
 
     return cum_gain_ratio    
 
