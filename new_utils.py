@@ -168,4 +168,3 @@ def calculate_cumulative_gain_ratio(act_wins, exp_wins, matches_home, only_home=
             cum_gain_ratio.append((cum_gain)/(counter))
 
     return cum_gain_ratio    
-

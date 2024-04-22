@@ -14,8 +14,9 @@ def get_match_outcome(match_row):
         return "1"
     elif home_goals < away_goals:
         return "2"
-    else:
+    elif home_goals == away_goals:
         return "X"
+    else: raise Exception(f"Error in calculating score for match {match_row['id']}")
 
 def get_match_total_goals(match_row):
     home_goals = match_row[HOME_GOALS]
