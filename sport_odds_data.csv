@@ -1394,16 +1394,16 @@ bcf793c143b4f28f17ea4dba29de36f7,soccer_spain_la_liga,La Liga - Spain,2024-04-14
 321b16d0b0ed5d3422c0ec993aa92789,soccer_spain_la_liga,La Liga - Spain,2024-04-14T16:30:00Z,Athletic Bilbao,Villarreal,williamhill,William Hill,1.7,4.5,4.0,1.62,2.2,1.0,1.0
 f0f2a1d365744c7c7cefa9ef75efe4a1,soccer_spain_la_liga,La Liga - Spain,2024-04-14T19:00:00Z,Real Sociedad,Almería,williamhill,William Hill,1.3,10.0,5.0,1.7,2.05,2.0,2.0
 5ea60919cba13d1726d8a7fc263d752f,soccer_spain_la_liga,La Liga - Spain,2024-04-15T19:00:00Z,CA Osasuna,Valencia,williamhill,William Hill,2.4,3.1,3.1,2.38,1.53,0.0,1.0
-dda7c8e256908eedfcfaf69b743e32b9,soccer_spain_la_liga,La Liga - Spain,2024-04-19T19:00:00Z,Athletic Bilbao,Granada CF,williamhill,William Hill,1.25,12.0,6.0,1.62,2.2,0.0,0.0
-690f72316299df6cf02cc51c168d8d4a,soccer_spain_la_liga,La Liga - Spain,2024-04-20T12:00:00Z,Celta Vigo,Las Palmas,williamhill,William Hill,1.8,4.4,3.7,1.91,1.8,0.0,0.0
-ac241fac3e1f3ad341752450d3bce02d,soccer_spain_la_liga,La Liga - Spain,2024-04-20T14:15:00Z,Rayo Vallecano,CA Osasuna,williamhill,William Hill,2.2,3.4,3.2,2.3,1.57,0.0,0.0
-ee7e1242e767463c2b08be67fa49e64f,soccer_spain_la_liga,La Liga - Spain,2024-04-20T16:30:00Z,Valencia,Real Betis,williamhill,William Hill,2.2,3.3,3.3,2.1,1.67,0.0,0.0
-9929f3ece373970918162fc4a0126a32,soccer_spain_la_liga,La Liga - Spain,2024-04-20T19:00:00Z,Girona,Cádiz CF,williamhill,William Hill,1.4,7.5,4.8,1.62,2.2,0.0,0.0
-d5f35e7e1e36bbf3a74e23db466f8b9d,soccer_spain_la_liga,La Liga - Spain,2024-04-21T12:00:00Z,Getafe,Real Sociedad,williamhill,William Hill,3.8,2.1,3.1,2.5,1.5,0.0,0.0
-b9cd791c6ef3bf507d1a856ff7bc8835,soccer_spain_la_liga,La Liga - Spain,2024-04-21T14:15:00Z,Almería,Villarreal,williamhill,William Hill,3.3,2.05,3.7,1.6,2.25,0.0,0.0
-145c32bbb20c3b487ebac7a4a471ef92,soccer_spain_la_liga,La Liga - Spain,2024-04-21T16:30:00Z,Alavés,Atlético Madrid,williamhill,William Hill,3.7,2.0,3.4,2.05,1.7,0.0,0.0
-597be0d2077a2bc2fd80d4fd9abe52d2,soccer_spain_la_liga,La Liga - Spain,2024-04-21T19:00:00Z,Real Madrid,Barcelona,williamhill,William Hill,1.73,4.2,4.2,1.5,2.5,0.0,0.0
-b21febfc6b307854e66693e9978eb886,soccer_spain_la_liga,La Liga - Spain,2024-04-22T19:00:00Z,Sevilla,Mallorca,williamhill,William Hill,1.91,4.4,3.2,2.38,1.53,0.0,0.0
+dda7c8e256908eedfcfaf69b743e32b9,soccer_spain_la_liga,La Liga - Spain,2024-04-19T19:00:00Z,Athletic Bilbao,Granada CF,williamhill,William Hill,1.25,12.0,6.0,1.62,2.2,1.0,1.0
+690f72316299df6cf02cc51c168d8d4a,soccer_spain_la_liga,La Liga - Spain,2024-04-20T12:00:00Z,Celta Vigo,Las Palmas,williamhill,William Hill,1.8,4.4,3.7,1.91,1.8,4.0,1.0
+ac241fac3e1f3ad341752450d3bce02d,soccer_spain_la_liga,La Liga - Spain,2024-04-20T14:15:00Z,Rayo Vallecano,CA Osasuna,williamhill,William Hill,2.2,3.4,3.2,2.3,1.57,2.0,1.0
+ee7e1242e767463c2b08be67fa49e64f,soccer_spain_la_liga,La Liga - Spain,2024-04-20T16:30:00Z,Valencia,Real Betis,williamhill,William Hill,2.2,3.3,3.3,2.1,1.67,1.0,2.0
+9929f3ece373970918162fc4a0126a32,soccer_spain_la_liga,La Liga - Spain,2024-04-20T19:00:00Z,Girona,Cádiz CF,williamhill,William Hill,1.4,7.5,4.8,1.62,2.2,4.0,1.0
+d5f35e7e1e36bbf3a74e23db466f8b9d,soccer_spain_la_liga,La Liga - Spain,2024-04-21T12:00:00Z,Getafe,Real Sociedad,williamhill,William Hill,3.8,2.1,3.1,2.5,1.5,1.0,1.0
+b9cd791c6ef3bf507d1a856ff7bc8835,soccer_spain_la_liga,La Liga - Spain,2024-04-21T14:15:00Z,Almería,Villarreal,williamhill,William Hill,3.3,2.05,3.7,1.6,2.25,1.0,2.0
+145c32bbb20c3b487ebac7a4a471ef92,soccer_spain_la_liga,La Liga - Spain,2024-04-21T16:30:00Z,Alavés,Atlético Madrid,williamhill,William Hill,3.7,2.0,3.4,2.05,1.7,2.0,0.0
+597be0d2077a2bc2fd80d4fd9abe52d2,soccer_spain_la_liga,La Liga - Spain,2024-04-21T19:00:00Z,Real Madrid,Barcelona,williamhill,William Hill,1.73,4.2,4.2,1.5,2.5,3.0,2.0
+b21febfc6b307854e66693e9978eb886,soccer_spain_la_liga,La Liga - Spain,2024-04-22T19:00:00Z,Sevilla,Mallorca,williamhill,William Hill,1.91,4.4,3.2,2.38,1.53,2.0,1.0
 00b992e97755a9080affd7f243f0fa5c,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-05T18:30:00Z,Eintracht Frankfurt,Werder Bremen,williamhill,William Hill,1.83,3.9,3.9,1.73,2.0,1.0,1.0
 9014ac92174e223b70c05120dade6bcb,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-06T13:30:00Z,Union Berlin,Bayer Leverkusen,williamhill,William Hill,5.5,1.55,4.33,1.73,2.0,0.0,1.0
 30aa2148eed7ea9e41107d28d6180037,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-06T13:30:00Z,FC Heidenheim,Bayern Munich,williamhill,William Hill,7.5,1.33,5.8,1.33,3.25,3.0,2.0
@@ -1442,16 +1442,16 @@ fccccc760ca6668356782fc51bf238be,soccer_italy_serie_a,Serie A - Italy,2024-04-14
 9bbb0057435fc57717c3ce988ac842a5,soccer_italy_serie_a,Serie A - Italy,2024-04-14T18:45:00Z,Inter Milan,Cagliari,williamhill,William Hill,1.17,15.0,7.5,1.4,2.75,2.0,2.0
 0b99ef460a4d40a406f6b46e513bdd62,soccer_italy_serie_a,Serie A - Italy,2024-04-15T16:30:00Z,Fiorentina,Genoa,williamhill,William Hill,1.83,4.2,3.6,1.91,1.8,1.0,1.0
 df1668cff1f83295c4dade736aa146ce,soccer_italy_serie_a,Serie A - Italy,2024-04-15T18:45:00Z,Atalanta BC,Hellas Verona FC,williamhill,William Hill,1.44,7.0,4.6,1.67,2.1,2.0,2.0
-15e05d701eaaef9511061fd45fde0db5,soccer_italy_serie_a,Serie A - Italy,2024-04-19T16:30:00Z,Genoa,Lazio,williamhill,William Hill,2.8,2.62,3.1,2.3,1.57,0.0,0.0
-914cf4337853f23bc2963edad938b103,soccer_italy_serie_a,Serie A - Italy,2024-04-19T18:45:00Z,Cagliari,Juventus,williamhill,William Hill,4.75,1.75,3.6,2.0,1.73,0.0,0.0
-524277c303575230d4f2f600526772f7,soccer_italy_serie_a,Serie A - Italy,2024-04-20T16:00:00Z,Empoli,Napoli,williamhill,William Hill,4.4,1.73,3.9,1.7,2.05,0.0,0.0
-e864bb9c216f6e58797ca4128a4e7904,soccer_italy_serie_a,Serie A - Italy,2024-04-20T18:45:00Z,Hellas Verona FC,Udinese,williamhill,William Hill,2.6,2.75,3.25,2.05,1.7,0.0,0.0
-00521dac728bdbe33edb229aed045af5,soccer_italy_serie_a,Serie A - Italy,2024-04-21T10:30:00Z,Sassuolo,Lecce,williamhill,William Hill,2.3,3.0,3.4,1.8,1.91,0.0,0.0
+15e05d701eaaef9511061fd45fde0db5,soccer_italy_serie_a,Serie A - Italy,2024-04-19T16:30:00Z,Genoa,Lazio,williamhill,William Hill,2.8,2.62,3.1,2.3,1.57,0.0,1.0
+914cf4337853f23bc2963edad938b103,soccer_italy_serie_a,Serie A - Italy,2024-04-19T18:45:00Z,Cagliari,Juventus,williamhill,William Hill,4.75,1.75,3.6,2.0,1.73,2.0,2.0
+524277c303575230d4f2f600526772f7,soccer_italy_serie_a,Serie A - Italy,2024-04-20T16:00:00Z,Empoli,Napoli,williamhill,William Hill,4.4,1.73,3.9,1.7,2.05,1.0,0.0
+e864bb9c216f6e58797ca4128a4e7904,soccer_italy_serie_a,Serie A - Italy,2024-04-20T18:45:00Z,Hellas Verona FC,Udinese,williamhill,William Hill,2.6,2.75,3.25,2.05,1.7,1.0,0.0
+00521dac728bdbe33edb229aed045af5,soccer_italy_serie_a,Serie A - Italy,2024-04-21T10:30:00Z,Sassuolo,Lecce,williamhill,William Hill,2.3,3.0,3.4,1.8,1.91,0.0,3.0
 1c199f11558207a7e3de9e89505c6b47,soccer_italy_serie_a,Serie A - Italy,2024-04-21T13:00:00Z,Torino,Frosinone,williamhill,William Hill,1.67,5.0,3.8,1.85,1.85,0.0,0.0
-e25cdf19e128aa1ce0b4fc9c3a828495,soccer_italy_serie_a,Serie A - Italy,2024-04-21T16:00:00Z,Salernitana,Fiorentina,williamhill,William Hill,5.0,1.6,4.2,1.7,2.05,0.0,0.0
-06c44c5b7fc244381e92a953fc676b6e,soccer_italy_serie_a,Serie A - Italy,2024-04-21T18:45:00Z,Monza,Atalanta BC,williamhill,William Hill,3.9,1.85,3.75,1.73,2.0,0.0,0.0
-9e466c05aa77eccee6caf785a2a2b888,soccer_italy_serie_a,Serie A - Italy,2024-04-22T16:30:00Z,AS Roma,Bologna,williamhill,William Hill,2.25,3.3,3.2,2.25,1.6,0.0,0.0
-ab3ecf1a5b0baa5959a1cb7822b87c92,soccer_italy_serie_a,Serie A - Italy,2024-04-22T18:45:00Z,AC Milan,Inter Milan,williamhill,William Hill,3.2,2.1,3.7,1.7,2.05,0.0,0.0
+e25cdf19e128aa1ce0b4fc9c3a828495,soccer_italy_serie_a,Serie A - Italy,2024-04-21T16:00:00Z,Salernitana,Fiorentina,williamhill,William Hill,5.0,1.6,4.2,1.7,2.05,0.0,2.0
+06c44c5b7fc244381e92a953fc676b6e,soccer_italy_serie_a,Serie A - Italy,2024-04-21T18:45:00Z,Monza,Atalanta BC,williamhill,William Hill,3.9,1.85,3.75,1.73,2.0,1.0,2.0
+9e466c05aa77eccee6caf785a2a2b888,soccer_italy_serie_a,Serie A - Italy,2024-04-22T16:30:00Z,AS Roma,Bologna,williamhill,William Hill,2.25,3.3,3.2,2.25,1.6,1.0,3.0
+ab3ecf1a5b0baa5959a1cb7822b87c92,soccer_italy_serie_a,Serie A - Italy,2024-04-22T18:45:00Z,AC Milan,Inter Milan,williamhill,William Hill,3.2,2.1,3.7,1.7,2.05,1.0,2.0
 6a75389b427acafacbd3404e0ca1b64e,soccer_epl,EPL,2024-04-13T11:30:00Z,Newcastle United,Tottenham Hotspur,williamhill,William Hill,2.7,2.25,4.0,1.36,3.0,4.0,0.0
 3d1fed4cc501d8791a1d7aee45ea37fd,soccer_epl,EPL,2024-04-13T14:00:00Z,Brentford,Sheffield United,williamhill,William Hill,1.4,6.5,5.0,1.44,2.62,2.0,0.0
 738fa0d34b0ce4675d78d85abeda9030,soccer_epl,EPL,2024-04-13T14:00:00Z,Burnley,Brighton and Hove Albion,williamhill,William Hill,3.4,1.95,3.9,1.6,2.25,1.0,1.0
@@ -1462,75 +1462,108 @@ ed69a2ead9f236a2980f994e2c59aea8,soccer_epl,EPL,2024-04-13T14:00:00Z,Manchester 
 638acacb4d7f038bec9a9499fe8a4904,soccer_epl,EPL,2024-04-14T13:00:00Z,West Ham United,Fulham,williamhill,William Hill,2.3,2.75,3.75,1.62,2.2,0.0,2.0
 190fa74e005ca0730c8ecaba7b0e5cc6,soccer_epl,EPL,2024-04-14T15:30:00Z,Arsenal,Aston Villa,williamhill,William Hill,1.25,10.0,6.0,1.4,2.75,0.0,2.0
 04fb60f14bbbff415a849f0690ba995f,soccer_epl,EPL,2024-04-15T19:00:00Z,Chelsea,Everton,williamhill,William Hill,1.65,4.5,4.33,1.53,2.38,6.0,0.0
-bdf1314ba1832136f09b60dd031387aa,soccer_epl,EPL,2024-04-20T14:00:00Z,Luton,Brentford,williamhill,William Hill,3.1,2.15,3.7,1.53,2.38,0.0,0.0
-2e66fec74600a8b930f6953d1f21cd58,soccer_epl,EPL,2024-04-20T14:00:00Z,Sheffield United,Burnley,williamhill,William Hill,2.75,2.38,3.6,1.6,2.25,0.0,0.0
-64fe150e8ec1c1c1895273cb0c4188fe,soccer_epl,EPL,2024-04-20T18:30:00Z,Wolverhampton Wanderers,Arsenal,williamhill,William Hill,8.0,1.35,5.0,1.6,2.25,0.0,0.0
-6ee78cbe6c9523fdcf6c7d9c46c0b861,soccer_epl,EPL,2024-04-21T12:30:00Z,Everton,Nottingham Forest,williamhill,William Hill,2.0,3.5,3.6,1.7,2.05,0.0,0.0
-c2b72adf0b0c24e89d97302a15e9c9b4,soccer_epl,EPL,2024-04-21T14:00:00Z,Aston Villa,Bournemouth,williamhill,William Hill,1.75,3.9,4.33,1.4,2.75,0.0,0.0
-a3fb3d88f84575acc815dfb535d72cf9,soccer_epl,EPL,2024-04-21T14:00:00Z,Crystal Palace,West Ham United,williamhill,William Hill,2.2,3.1,3.5,1.7,2.05,0.0,0.0
-87c3ecaf304e3e7b1d298993b113d102,soccer_epl,EPL,2024-04-21T15:30:00Z,Fulham,Liverpool,williamhill,William Hill,5.5,1.5,4.8,1.36,3.0,0.0,0.0
-54310dbf8174546ee4953ee01b481107,soccer_france_ligue_one,Ligue 1 - France,2024-04-19T19:00:00Z,Nice,Lorient,williamhill,William Hill,1.53,6.0,4.2,1.91,1.8,0.0,0.0
-6f986ce0257697bdde916c84da324659,soccer_france_ligue_one,Ligue 1 - France,2024-04-20T15:00:00Z,Nantes,Rennes,williamhill,William Hill,3.1,2.3,3.3,2.05,1.7,0.0,0.0
-4c4b61398a4e91f04ef8a0cccf80922a,soccer_france_ligue_one,Ligue 1 - France,2024-04-20T19:00:00Z,RC Lens,Clermont,williamhill,William Hill,1.4,7.5,4.75,1.7,2.05,0.0,0.0
-5b64f7abe0f56b6969278838f0583a26,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T13:00:00Z,Le Havre,Metz,williamhill,William Hill,2.1,3.6,3.25,2.25,1.6,0.0,0.0
-7680d84851014d90169602739d665755,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T13:00:00Z,Lille,Strasbourg,williamhill,William Hill,1.57,5.5,4.2,1.73,2.0,0.0,0.0
-544cc70e66d8115ed6ad0924a97e6107,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T13:00:00Z,Stade de Reims,Montpellier,williamhill,William Hill,1.95,3.5,3.8,1.67,2.1,0.0,0.0
-fb50714036c4ffc5986185b3732b715f,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T15:05:00Z,Brest,AS Monaco,williamhill,William Hill,2.6,2.6,3.4,1.73,2.0,0.0,0.0
-4e37fa2a4a375dd47d57402748fa544c,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T17:00:00Z,Toulouse,Marseille,williamhill,William Hill,3.0,2.3,3.5,1.8,1.91,0.0,0.0
-956628606d55911d3ddc6a3b1606b225,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T19:00:00Z,Paris Saint Germain,Lyon,williamhill,William Hill,1.44,6.5,5.0,1.4,2.75,0.0,0.0
-7dff10947e1ca7c0cecbf2ac2e81cd0b,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-19T18:30:00Z,Eintracht Frankfurt,Augsburg,williamhill,William Hill,2.05,3.25,3.8,1.62,2.2,0.0,0.0
-37574c0e84d9752dabb1efb98f31127f,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,TSG Hoffenheim,Borussia Monchengladbach,williamhill,William Hill,2.0,3.2,4.0,1.36,3.0,0.0,0.0
-6be3cc96bfb06f0ee1561c7ec4d52bbb,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,FC Heidenheim,RB Leipzig,williamhill,William Hill,6.0,1.44,5.0,1.4,2.75,0.0,0.0
-f5bc9bb8d23078adc49019d1cb39a635,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,FC Koln,SV Darmstadt 98,williamhill,William Hill,1.44,6.5,4.6,1.6,2.25,0.0,0.0
-97bf7302acd34087ede4fd0ccf830352,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,VfL Wolfsburg,VfL Bochum,williamhill,William Hill,1.73,4.2,4.2,1.6,2.25,0.0,0.0
-723ed6130439e2cdbb6c00ebcc05fcdc,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T16:30:00Z,Union Berlin,Bayern Munich,williamhill,William Hill,5.5,1.55,4.4,1.53,2.38,0.0,0.0
-36de341ac4d6a083896616a5badd1632,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-21T13:30:00Z,Werder Bremen,VfB Stuttgart,williamhill,William Hill,5.0,1.57,4.4,1.5,2.5,0.0,0.0
-1c4e2369c84bc54b50b31cc4ad8dfd5c,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-21T15:30:00Z,Borussia Dortmund,Bayer Leverkusen,williamhill,William Hill,2.38,2.62,3.9,1.4,2.75,0.0,0.0
-1e9f414e1844085c20a85a13d617eb7a,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-21T17:30:00Z,SC Freiburg,FSV Mainz 05,williamhill,William Hill,2.38,2.7,3.7,1.62,2.2,0.0,0.0
-dea03b7a30dea418ae0dd24c9605299d,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Juventus,AC Milan,williamhill,William Hill,2.15,3.3,3.4,2.1,1.67,0.0,0.0
-4793149fcb57ea0b214f14b4be8700e7,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Napoli,AS Roma,williamhill,William Hill,1.95,3.6,3.7,1.85,1.85,0.0,0.0
-afc9ed10dc9c75f2c8b64bdc95a42d41,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Atalanta BC,Empoli,williamhill,William Hill,1.4,7.0,4.8,1.62,2.2,0.0,0.0
-17447fa0c145fae9a347a78c794f8184,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Bologna,Udinese,williamhill,William Hill,1.57,5.8,4.0,2.0,1.73,0.0,0.0
-2cbfefe662f86d5a4855319f82ca5d3d,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Genoa,Cagliari,williamhill,William Hill,1.95,3.8,3.5,2.2,1.62,0.0,0.0
-20b8fcdde4f882d8861642859658875c,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Fiorentina,Sassuolo,williamhill,William Hill,1.6,5.0,4.2,1.67,2.1,0.0,0.0
-f1bf081f0e22df30ee6e7768d03f04b6,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Frosinone,Salernitana,williamhill,William Hill,1.65,4.8,4.2,1.62,2.2,0.0,0.0
-a37f3e72d3ba684c006cdc08636d8fb6,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Lazio,Hellas Verona FC,williamhill,William Hill,1.62,5.5,3.8,2.1,1.67,0.0,0.0
-a845275fc5bff5ff103526d3cda166f0,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Inter Milan,Torino,williamhill,William Hill,1.35,9.0,4.8,1.8,1.91,0.0,0.0
-ccfd5f8be8a8650981a3858d34f3d5e1,soccer_italy_serie_a,Serie A - Italy,2024-04-27T14:00:00Z,Lecce,Monza,williamhill,William Hill,2.2,3.4,3.2,2.2,1.62,0.0,0.0
+bdf1314ba1832136f09b60dd031387aa,soccer_epl,EPL,2024-04-20T14:00:00Z,Luton,Brentford,williamhill,William Hill,3.1,2.15,3.7,1.53,2.38,1.0,5.0
+2e66fec74600a8b930f6953d1f21cd58,soccer_epl,EPL,2024-04-20T14:00:00Z,Sheffield United,Burnley,williamhill,William Hill,2.75,2.38,3.6,1.6,2.25,1.0,4.0
+64fe150e8ec1c1c1895273cb0c4188fe,soccer_epl,EPL,2024-04-20T18:30:00Z,Wolverhampton Wanderers,Arsenal,williamhill,William Hill,8.0,1.35,5.0,1.6,2.25,0.0,2.0
+6ee78cbe6c9523fdcf6c7d9c46c0b861,soccer_epl,EPL,2024-04-21T12:30:00Z,Everton,Nottingham Forest,williamhill,William Hill,2.0,3.5,3.6,1.7,2.05,2.0,0.0
+c2b72adf0b0c24e89d97302a15e9c9b4,soccer_epl,EPL,2024-04-21T14:00:00Z,Aston Villa,Bournemouth,williamhill,William Hill,1.75,3.9,4.33,1.4,2.75,3.0,1.0
+a3fb3d88f84575acc815dfb535d72cf9,soccer_epl,EPL,2024-04-21T14:00:00Z,Crystal Palace,West Ham United,williamhill,William Hill,2.2,3.1,3.5,1.7,2.05,5.0,2.0
+87c3ecaf304e3e7b1d298993b113d102,soccer_epl,EPL,2024-04-21T15:30:00Z,Fulham,Liverpool,williamhill,William Hill,5.5,1.5,4.8,1.36,3.0,1.0,3.0
+54310dbf8174546ee4953ee01b481107,soccer_france_ligue_one,Ligue 1 - France,2024-04-19T19:00:00Z,Nice,Lorient,williamhill,William Hill,1.53,6.0,4.2,1.91,1.8,3.0,0.0
+6f986ce0257697bdde916c84da324659,soccer_france_ligue_one,Ligue 1 - France,2024-04-20T15:00:00Z,Nantes,Rennes,williamhill,William Hill,3.1,2.3,3.3,2.05,1.7,0.0,3.0
+4c4b61398a4e91f04ef8a0cccf80922a,soccer_france_ligue_one,Ligue 1 - France,2024-04-20T19:00:00Z,RC Lens,Clermont,williamhill,William Hill,1.4,7.5,4.75,1.7,2.05,1.0,0.0
+5b64f7abe0f56b6969278838f0583a26,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T13:00:00Z,Le Havre,Metz,williamhill,William Hill,2.1,3.6,3.25,2.25,1.6,0.0,1.0
+7680d84851014d90169602739d665755,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T13:00:00Z,Lille,Strasbourg,williamhill,William Hill,1.57,5.5,4.2,1.73,2.0,1.0,0.0
+544cc70e66d8115ed6ad0924a97e6107,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T13:00:00Z,Stade de Reims,Montpellier,williamhill,William Hill,1.95,3.5,3.8,1.67,2.1,1.0,2.0
+fb50714036c4ffc5986185b3732b715f,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T15:05:00Z,Brest,AS Monaco,williamhill,William Hill,2.6,2.6,3.4,1.73,2.0,0.0,2.0
+4e37fa2a4a375dd47d57402748fa544c,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T17:00:00Z,Toulouse,Marseille,williamhill,William Hill,3.0,2.3,3.5,1.8,1.91,2.0,2.0
+956628606d55911d3ddc6a3b1606b225,soccer_france_ligue_one,Ligue 1 - France,2024-04-21T19:00:00Z,Paris Saint Germain,Lyon,williamhill,William Hill,1.44,6.5,5.0,1.4,2.75,4.0,1.0
+7dff10947e1ca7c0cecbf2ac2e81cd0b,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-19T18:30:00Z,Eintracht Frankfurt,Augsburg,williamhill,William Hill,2.05,3.25,3.8,1.62,2.2,3.0,1.0
+37574c0e84d9752dabb1efb98f31127f,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,TSG Hoffenheim,Borussia Monchengladbach,williamhill,William Hill,2.0,3.2,4.0,1.36,3.0,4.0,3.0
+6be3cc96bfb06f0ee1561c7ec4d52bbb,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,FC Heidenheim,RB Leipzig,williamhill,William Hill,6.0,1.44,5.0,1.4,2.75,1.0,2.0
+f5bc9bb8d23078adc49019d1cb39a635,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,FC Koln,SV Darmstadt 98,williamhill,William Hill,1.44,6.5,4.6,1.6,2.25,0.0,2.0
+97bf7302acd34087ede4fd0ccf830352,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T13:30:00Z,VfL Wolfsburg,VfL Bochum,williamhill,William Hill,1.73,4.2,4.2,1.6,2.25,1.0,0.0
+723ed6130439e2cdbb6c00ebcc05fcdc,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-20T16:30:00Z,Union Berlin,Bayern Munich,williamhill,William Hill,5.5,1.55,4.4,1.53,2.38,1.0,5.0
+36de341ac4d6a083896616a5badd1632,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-21T13:30:00Z,Werder Bremen,VfB Stuttgart,williamhill,William Hill,5.0,1.57,4.4,1.5,2.5,2.0,1.0
+1c4e2369c84bc54b50b31cc4ad8dfd5c,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-21T15:30:00Z,Borussia Dortmund,Bayer Leverkusen,williamhill,William Hill,2.38,2.62,3.9,1.4,2.75,1.0,1.0
+1e9f414e1844085c20a85a13d617eb7a,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-21T17:30:00Z,SC Freiburg,FSV Mainz 05,williamhill,William Hill,2.38,2.7,3.7,1.62,2.2,1.0,1.0
+dea03b7a30dea418ae0dd24c9605299d,soccer_italy_serie_a,Serie A - Italy,2024-04-27T16:00:00Z,Juventus,AC Milan,williamhill,William Hill,2.0,3.7,3.5,1.91,1.8,0.0,0.0
+a37f3e72d3ba684c006cdc08636d8fb6,soccer_italy_serie_a,Serie A - Italy,2024-04-27T18:45:00Z,Lazio,Hellas Verona FC,williamhill,William Hill,1.6,5.5,3.9,1.91,1.8,0.0,0.0
+ccfd5f8be8a8650981a3858d34f3d5e1,soccer_italy_serie_a,Serie A - Italy,2024-04-27T13:00:00Z,Lecce,Monza,williamhill,William Hill,2.05,3.7,3.3,2.1,1.67,0.0,0.0
 9189b39d5fe363857bc3440b030b02f6,soccer_epl,EPL,2024-04-23T19:00:00Z,Arsenal,Chelsea,williamhill,William Hill,1.5,5.8,4.5,1.44,2.62,0.0,0.0
 0e6901441c26f4f07b3b7080258e3f37,soccer_epl,EPL,2024-04-24T18:45:00Z,Wolverhampton Wanderers,Bournemouth,williamhill,William Hill,2.45,2.6,3.75,1.6,2.25,0.0,0.0
 3f197d764566e0d30f7725f26f02b13a,soccer_epl,EPL,2024-04-24T19:00:00Z,Crystal Palace,Newcastle United,williamhill,William Hill,2.88,2.25,3.7,1.7,2.05,0.0,0.0
 32264097a8ee302dc7547709f6bbdfc6,soccer_epl,EPL,2024-04-24T19:00:00Z,Everton,Liverpool,williamhill,William Hill,5.8,1.44,5.0,1.5,2.5,0.0,0.0
 733e6a9f54f8503f6e6b5c6cb35bd59b,soccer_epl,EPL,2024-04-24T19:00:00Z,Manchester United,Sheffield United,williamhill,William Hill,1.25,9.5,6.0,1.33,3.25,0.0,0.0
-a9d7ac5eb43abc9ae99d0a5a42667413,soccer_epl,EPL,2024-04-25T19:00:00Z,Brighton and Hove Albion,Manchester City,williamhill,William Hill,6.5,1.44,5.0,1.44,2.62,0.0,0.0
+a9d7ac5eb43abc9ae99d0a5a42667413,soccer_epl,EPL,2024-04-25T19:00:00Z,Brighton and Hove Albion,Manchester City,williamhill,William Hill,7.5,1.36,5.0,1.44,2.62,0.0,0.0
 979dce99f03cc806764b3f9e02425446,soccer_france_ligue_one,Ligue 1 - France,2024-04-24T17:00:00Z,AS Monaco,Lille,williamhill,William Hill,2.15,3.1,3.7,1.67,2.1,0.0,0.0
 4134daa3c91a2c7d9a24ba89ef2a59f8,soccer_france_ligue_one,Ligue 1 - France,2024-04-24T17:00:00Z,Lorient,Paris Saint Germain,williamhill,William Hill,7.0,1.4,5.0,1.5,2.5,0.0,0.0
 bdab89909ab4a2827405fbeef2d2419c,soccer_france_ligue_one,Ligue 1 - France,2024-04-24T19:00:00Z,Marseille,Nice,williamhill,William Hill,2.1,3.4,3.5,2.0,1.73,0.0,0.0
-228eb831bda529c45212298cfbec3c0b,soccer_france_ligue_one,Ligue 1 - France,2024-04-26T19:00:00Z,Montpellier,Nantes,williamhill,William Hill,2.0,3.5,3.6,1.8,1.91,0.0,0.0
-a73ab86d0fb128aad04fce38a1d69c3a,soccer_france_ligue_one,Ligue 1 - France,2024-04-27T19:00:00Z,Paris Saint Germain,Le Havre,williamhill,William Hill,1.2,13.0,6.5,1.5,2.5,0.0,0.0
-2f28acce4a68d3f08760259d2f0013fb,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T11:00:00Z,Metz,Lille,williamhill,William Hill,4.75,1.7,3.9,1.8,1.91,0.0,0.0
-bf2abe69d2ef0fde541250626335ea48,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T13:00:00Z,Clermont,Stade de Reims,williamhill,William Hill,3.5,2.0,3.6,1.8,1.91,0.0,0.0
-5ac604387eea96f737adbb013a35c5e6,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T13:00:00Z,Lorient,Toulouse,williamhill,William Hill,2.88,2.4,3.4,2.0,1.73,0.0,0.0
-9bc5a0ee0d23e6bc33a9143011aa25c5,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T13:00:00Z,Strasbourg,Nice,williamhill,William Hill,3.2,2.2,3.4,2.05,1.7,0.0,0.0
-afd1935d6f5c9136af2167a30067d5ce,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T15:05:00Z,Rennes,Brest,williamhill,William Hill,2.4,2.88,3.4,2.05,1.7,0.0,0.0
-37a3255e688ef9c18577bbe0bd727a2f,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T17:00:00Z,Lyon,AS Monaco,williamhill,William Hill,2.5,2.45,3.9,1.57,2.3,0.0,0.0
-72683534659063d7c91dc0d164637e96,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T19:00:00Z,Marseille,RC Lens,williamhill,William Hill,2.1,3.3,3.6,1.91,1.8,0.0,0.0
-f42b449819bcf44765b9ad7df6988751,soccer_spain_la_liga,La Liga - Spain,2024-04-26T19:00:00Z,Almería,Getafe,williamhill,William Hill,2.6,2.75,3.25,2.1,1.67,0.0,0.0
-9b72fbcb41e08d55b0d306d299477418,soccer_spain_la_liga,La Liga - Spain,2024-04-27T12:00:00Z,Barcelona,Valencia,williamhill,William Hill,1.36,8.0,5.0,1.62,2.2,0.0,0.0
-56c2abf5cf84ced4d65ac50542c7ab88,soccer_spain_la_liga,La Liga - Spain,2024-04-27T14:15:00Z,Alavés,Celta Vigo,williamhill,William Hill,2.6,2.88,3.1,2.38,1.53,0.0,0.0
-0cd2862537ac8026060aca5a9cd66eda,soccer_spain_la_liga,La Liga - Spain,2024-04-27T16:30:00Z,Atlético Madrid,Athletic Bilbao,williamhill,William Hill,1.91,3.9,3.6,1.91,1.8,0.0,0.0
-fef7cfbeae25b5fa8df75558c648c109,soccer_spain_la_liga,La Liga - Spain,2024-04-27T19:00:00Z,Real Sociedad,Real Madrid,williamhill,William Hill,3.2,2.2,3.4,2.05,1.7,0.0,0.0
-89ec514f37cd50786d6f94b54ca2e16d,soccer_spain_la_liga,La Liga - Spain,2024-04-28T12:00:00Z,Cádiz CF,Mallorca,williamhill,William Hill,2.5,3.2,2.9,3.0,1.36,0.0,0.0
-9916c096f0a8075f3d95a7fb9f4989a6,soccer_spain_la_liga,La Liga - Spain,2024-04-28T14:15:00Z,Granada CF,CA Osasuna,williamhill,William Hill,2.6,2.75,3.2,2.25,1.6,0.0,0.0
-6d393ee6687dbf5040f308f0c4b82dd5,soccer_spain_la_liga,La Liga - Spain,2024-04-28T16:30:00Z,Villarreal,Rayo Vallecano,williamhill,William Hill,1.75,4.33,3.9,1.8,1.91,0.0,0.0
-cc379a59603aaa74aabcfb380f307522,soccer_spain_la_liga,La Liga - Spain,2024-04-28T19:00:00Z,Real Betis,Sevilla,williamhill,William Hill,2.15,3.3,3.4,2.05,1.7,0.0,0.0
-41580efd1112e1fe621362e8f21ad796,soccer_spain_la_liga,La Liga - Spain,2024-04-29T19:00:00Z,Las Palmas,Girona,williamhill,William Hill,3.4,2.0,3.7,1.8,1.91,0.0,0.0
-a5041e4be7b18920df9c021e16631bd8,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-26T18:30:00Z,VfL Bochum,TSG Hoffenheim,williamhill,William Hill,2.2,2.88,3.9,1.5,2.5,0.0,0.0
-0f82034cba1fc409057220166c189e97,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,Augsburg,Werder Bremen,williamhill,William Hill,1.73,4.2,4.2,1.57,2.3,0.0,0.0
-e3f754b887220f49a4d3268d5c79b08e,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,Bayern Munich,Eintracht Frankfurt,williamhill,William Hill,1.25,9.0,6.5,1.36,3.0,0.0,0.0
-8b6085f931fd47e08af580282be3fc35,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,RB Leipzig,Borussia Dortmund,williamhill,William Hill,1.75,3.8,4.4,1.36,3.0,0.0,0.0
-9030bf0b6790c5a72084ade00ead8698,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,SC Freiburg,VfL Wolfsburg,williamhill,William Hill,2.25,2.9,3.7,1.7,2.05,0.0,0.0
-c52c7262f9ff5b8ed21343b5a7a525cc,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T16:30:00Z,Bayer Leverkusen,VfB Stuttgart,williamhill,William Hill,1.8,4.0,4.0,1.57,2.3,0.0,0.0
-dd11c2c51d3cde7f2327c0b5a747c93e,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-28T13:30:00Z,Borussia Monchengladbach,Union Berlin,williamhill,William Hill,2.15,3.25,3.5,1.85,1.85,0.0,0.0
-4161f4084ff5ebeccaf7af5a0bcdc71c,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-28T15:30:00Z,FSV Mainz 05,FC Koln,williamhill,William Hill,1.6,5.0,4.2,1.73,2.0,0.0,0.0
-c6a018ed82b1ceeb9d2c3426bc28a85e,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-28T17:30:00Z,SV Darmstadt 98,FC Heidenheim,williamhill,William Hill,3.2,2.1,3.75,1.67,2.1,0.0,0.0
+228eb831bda529c45212298cfbec3c0b,soccer_france_ligue_one,Ligue 1 - France,2024-04-26T19:00:00Z,Montpellier,Nantes,williamhill,William Hill,1.91,3.8,3.6,1.73,2.0,0.0,0.0
+a73ab86d0fb128aad04fce38a1d69c3a,soccer_france_ligue_one,Ligue 1 - France,2024-04-27T19:00:00Z,Paris Saint Germain,Le Havre,williamhill,William Hill,1.3,9.0,5.5,1.57,2.3,0.0,0.0
+2f28acce4a68d3f08760259d2f0013fb,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T11:00:00Z,Metz,Lille,williamhill,William Hill,4.4,1.73,3.9,1.73,2.0,0.0,0.0
+bf2abe69d2ef0fde541250626335ea48,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T13:00:00Z,Clermont,Stade de Reims,williamhill,William Hill,3.6,1.95,3.7,1.73,2.0,0.0,0.0
+5ac604387eea96f737adbb013a35c5e6,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T13:00:00Z,Lorient,Toulouse,williamhill,William Hill,2.6,2.6,3.4,1.91,1.8,0.0,0.0
+9bc5a0ee0d23e6bc33a9143011aa25c5,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T13:00:00Z,Strasbourg,Nice,williamhill,William Hill,3.1,2.25,3.4,2.0,1.73,0.0,0.0
+afd1935d6f5c9136af2167a30067d5ce,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T15:05:00Z,Rennes,Brest,williamhill,William Hill,2.2,3.2,3.4,2.0,1.73,0.0,0.0
+37a3255e688ef9c18577bbe0bd727a2f,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T17:00:00Z,Lyon,AS Monaco,williamhill,William Hill,2.5,2.6,3.7,1.53,2.38,0.0,0.0
+72683534659063d7c91dc0d164637e96,soccer_france_ligue_one,Ligue 1 - France,2024-04-28T19:00:00Z,Marseille,RC Lens,williamhill,William Hill,2.38,2.8,3.5,1.85,1.85,0.0,0.0
+56c2abf5cf84ced4d65ac50542c7ab88,soccer_spain_la_liga,La Liga - Spain,2024-04-27T16:30:00Z,Alavés,Celta Vigo,williamhill,William Hill,2.6,2.8,3.1,2.3,1.57,0.0,0.0
+0cd2862537ac8026060aca5a9cd66eda,soccer_spain_la_liga,La Liga - Spain,2024-04-27T19:00:00Z,Atlético Madrid,Athletic Bilbao,williamhill,William Hill,1.91,3.75,3.7,1.85,1.85,0.0,0.0
+89ec514f37cd50786d6f94b54ca2e16d,soccer_spain_la_liga,La Liga - Spain,2024-04-28T12:00:00Z,Cádiz CF,Mallorca,williamhill,William Hill,2.5,3.2,2.88,2.75,1.4,0.0,0.0
+9916c096f0a8075f3d95a7fb9f4989a6,soccer_spain_la_liga,La Liga - Spain,2024-04-28T14:15:00Z,Granada CF,CA Osasuna,williamhill,William Hill,2.5,2.88,3.2,2.2,1.62,0.0,0.0
+6d393ee6687dbf5040f308f0c4b82dd5,soccer_spain_la_liga,La Liga - Spain,2024-04-28T16:30:00Z,Villarreal,Rayo Vallecano,williamhill,William Hill,1.73,4.4,3.9,1.73,2.0,0.0,0.0
+cc379a59603aaa74aabcfb380f307522,soccer_spain_la_liga,La Liga - Spain,2024-04-28T19:00:00Z,Real Betis,Sevilla,williamhill,William Hill,2.05,3.6,3.4,2.0,1.73,0.0,0.0
+a5041e4be7b18920df9c021e16631bd8,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-26T18:30:00Z,VfL Bochum,TSG Hoffenheim,williamhill,William Hill,2.2,2.88,3.9,1.44,2.62,0.0,0.0
+0f82034cba1fc409057220166c189e97,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,Augsburg,Werder Bremen,williamhill,William Hill,1.8,4.0,4.0,1.53,2.38,0.0,0.0
+e3f754b887220f49a4d3268d5c79b08e,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,Bayern Munich,Eintracht Frankfurt,williamhill,William Hill,1.36,7.0,5.5,1.33,3.25,0.0,0.0
+8b6085f931fd47e08af580282be3fc35,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,RB Leipzig,Borussia Dortmund,williamhill,William Hill,1.7,4.2,4.33,1.36,3.0,0.0,0.0
+9030bf0b6790c5a72084ade00ead8698,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T13:30:00Z,SC Freiburg,VfL Wolfsburg,williamhill,William Hill,2.2,3.0,3.7,1.73,2.0,0.0,0.0
+c52c7262f9ff5b8ed21343b5a7a525cc,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-27T16:30:00Z,Bayer Leverkusen,VfB Stuttgart,williamhill,William Hill,1.67,4.33,4.33,1.5,2.5,0.0,0.0
+dd11c2c51d3cde7f2327c0b5a747c93e,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-28T13:30:00Z,Borussia Monchengladbach,Union Berlin,williamhill,William Hill,2.15,3.2,3.5,1.8,1.91,0.0,0.0
+4161f4084ff5ebeccaf7af5a0bcdc71c,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-28T15:30:00Z,FSV Mainz 05,FC Koln,williamhill,William Hill,1.53,5.5,4.33,1.7,2.05,0.0,0.0
+c6a018ed82b1ceeb9d2c3426bc28a85e,soccer_germany_bundesliga,Bundesliga - Germany,2024-04-28T17:30:00Z,SV Darmstadt 98,FC Heidenheim,williamhill,William Hill,3.2,2.1,3.7,1.62,2.2,0.0,0.0
+3e046a57bf3d4b3e9f38dd82a28f338d,soccer_italy_serie_a,Serie A - Italy,2024-04-26T18:45:00Z,Frosinone,Salernitana,williamhill,William Hill,1.44,6.5,4.6,1.53,2.38,0.0,0.0
+aeb673ea9fd1c67a4f82b48ad81f73ae,soccer_italy_serie_a,Serie A - Italy,2024-04-28T10:30:00Z,Inter Milan,Torino,williamhill,William Hill,1.5,6.5,4.2,1.91,1.8,0.0,0.0
+240b3bf48aa581b2db0b389a0b0389df,soccer_italy_serie_a,Serie A - Italy,2024-04-28T13:00:00Z,Bologna,Udinese,williamhill,William Hill,1.6,5.5,3.9,1.91,1.8,0.0,0.0
+8ec7a360058c59d925e5853ee5341b8c,soccer_italy_serie_a,Serie A - Italy,2024-04-28T16:00:00Z,Napoli,AS Roma,williamhill,William Hill,1.91,3.8,3.7,1.8,1.91,0.0,0.0
+a643a105283b80dbcd9831722c5a836a,soccer_italy_serie_a,Serie A - Italy,2024-04-28T16:00:00Z,Atalanta BC,Empoli,williamhill,William Hill,1.4,7.0,4.75,1.6,2.25,0.0,0.0
+dea352564f8359c6cf860a07f6aff712,soccer_italy_serie_a,Serie A - Italy,2024-04-28T18:45:00Z,Fiorentina,Sassuolo,williamhill,William Hill,1.67,4.75,4.0,1.67,2.1,0.0,0.0
+44d24341520c96c378adfdc43f8b68f9,soccer_italy_serie_a,Serie A - Italy,2024-04-29T18:45:00Z,Genoa,Cagliari,williamhill,William Hill,2.25,3.3,3.25,2.1,1.67,0.0,0.0
+08147e923140611ef326821e869c472e,soccer_italy_serie_a,Serie A - Italy,2024-05-03T18:45:00Z,Torino,Bologna,williamhill,William Hill,2.9,2.6,3.0,2.62,1.44,0.0,0.0
+9df1a86537ad681e05c5d827d0684ae3,soccer_italy_serie_a,Serie A - Italy,2024-05-04T14:00:00Z,Monza,Lazio,williamhill,William Hill,3.5,2.1,3.4,2.0,1.73,0.0,0.0
+528c721089659c114682ffda6e0f2d8e,soccer_italy_serie_a,Serie A - Italy,2024-05-04T18:45:00Z,Sassuolo,Inter Milan,williamhill,William Hill,7.0,1.4,5.0,1.53,2.38,0.0,0.0
+125cc2f5f592baa9a2d66088b7322d32,soccer_italy_serie_a,Serie A - Italy,2024-05-05T10:30:00Z,Cagliari,Lecce,williamhill,William Hill,2.1,3.5,3.4,2.1,1.67,0.0,0.0
+4c162943964343d6967522c11e7c18e9,soccer_epl,EPL,2024-04-27T11:30:00Z,West Ham United,Liverpool,williamhill,William Hill,5.8,1.44,5.0,1.36,3.0,0.0,0.0
+35bd2ef5bc7899e0dd01bcc792d94c59,soccer_epl,EPL,2024-04-27T14:00:00Z,Manchester United,Burnley,williamhill,William Hill,1.44,5.8,5.0,1.36,3.0,0.0,0.0
+b9965e52415a0814981d066e1573711c,soccer_epl,EPL,2024-04-27T14:00:00Z,Fulham,Crystal Palace,williamhill,William Hill,1.95,3.6,3.7,1.67,2.1,0.0,0.0
+931c600c9999b1cfd2071b35618e408a,soccer_epl,EPL,2024-04-27T14:00:00Z,Wolverhampton Wanderers,Luton,williamhill,William Hill,1.95,3.5,3.8,1.6,2.25,0.0,0.0
+d8803d8943d6c4372dcfc4f7286cfc70,soccer_epl,EPL,2024-04-27T14:00:00Z,Newcastle United,Sheffield United,williamhill,William Hill,1.2,12.0,7.0,1.3,3.4,0.0,0.0
+8d70368d8d1ccb6be1c7bfcf4725d8df,soccer_epl,EPL,2024-04-27T16:30:00Z,Everton,Brentford,williamhill,William Hill,2.38,2.75,3.6,1.7,2.05,0.0,0.0
+0c5967ea007f1c13476d00db323eff16,soccer_epl,EPL,2024-04-27T19:00:00Z,Aston Villa,Chelsea,williamhill,William Hill,2.25,2.8,3.9,1.4,2.75,0.0,0.0
+933e9f696333872fa1af61bb50158239,soccer_epl,EPL,2024-04-28T13:00:00Z,Tottenham Hotspur,Arsenal,williamhill,William Hill,3.8,1.83,4.0,1.4,2.75,0.0,0.0
+0b0372d7bbb0b52288fa70d792563ae9,soccer_epl,EPL,2024-04-28T13:00:00Z,Bournemouth,Brighton and Hove Albion,williamhill,William Hill,2.2,2.88,3.9,1.4,2.75,0.0,0.0
+1984edf0770b819d553adefa1d82031e,soccer_epl,EPL,2024-04-28T15:30:00Z,Nottingham Forest,Manchester City,williamhill,William Hill,7.5,1.35,5.5,1.44,2.62,0.0,0.0
+9f32310b031429e2b85a0804c0081414,soccer_spain_la_liga,La Liga - Spain,2024-04-26T19:00:00Z,Real Sociedad,Real Madrid,williamhill,William Hill,2.5,2.7,3.4,2.0,1.73,0.0,0.0
+ce10fe42b1a754902c2016fabb4f44b7,soccer_spain_la_liga,La Liga - Spain,2024-04-27T12:00:00Z,Las Palmas,Girona,williamhill,William Hill,4.2,1.75,4.0,1.62,2.2,0.0,0.0
+c8cd89571f65f686b8c6920590b57313,soccer_spain_la_liga,La Liga - Spain,2024-04-27T14:15:00Z,Almería,Getafe,williamhill,William Hill,2.7,2.6,3.25,2.05,1.7,0.0,0.0
+b2c7e5d5f7213812086ede18d7ed0db2,soccer_spain_la_liga,La Liga - Spain,2024-04-29T19:00:00Z,Barcelona,Valencia,williamhill,William Hill,1.35,8.0,5.0,1.6,2.25,0.0,0.0
+2f2e80dc42c1166148f3b71f3e2eda56,soccer_spain_la_liga,La Liga - Spain,2024-05-03T19:00:00Z,Getafe,Athletic Bilbao,williamhill,William Hill,3.4,2.2,3.2,2.38,1.53,0.0,0.0
+60574065ceefb23a78f455db6969cd8f,soccer_spain_la_liga,La Liga - Spain,2024-05-04T12:00:00Z,Real Sociedad,Las Palmas,williamhill,William Hill,1.36,8.5,4.6,1.91,1.8,0.0,0.0
+8c5613140a4514e971a7d487fb53e855,soccer_spain_la_liga,La Liga - Spain,2024-05-04T14:15:00Z,Real Madrid,Cádiz CF,williamhill,William Hill,1.29,10.0,5.5,1.62,2.2,0.0,0.0
+11bde34c58b70249d1ac5f19122634a2,soccer_spain_la_liga,La Liga - Spain,2024-05-04T16:30:00Z,Girona,Barcelona,williamhill,William Hill,2.88,2.2,3.9,1.5,2.5,0.0,0.0
+7fd74413159bfe9ee2463dbc771160b7,soccer_spain_la_liga,La Liga - Spain,2024-05-04T19:00:00Z,Mallorca,Atlético Madrid,williamhill,William Hill,3.7,2.1,3.25,2.3,1.57,0.0,0.0
+c7ca633328ca3f32f87852f156955a3a,soccer_spain_la_liga,La Liga - Spain,2024-05-05T12:00:00Z,CA Osasuna,Real Betis,williamhill,William Hill,2.7,2.62,3.2,2.1,1.67,0.0,0.0
+02236bfcfabc9b5d6c9edaab441dbc45,soccer_spain_la_liga,La Liga - Spain,2024-05-05T14:15:00Z,Celta Vigo,Villarreal,williamhill,William Hill,2.25,3.0,3.6,1.67,2.1,0.0,0.0
+cf562361fe297a70304b1df2092c61c8,soccer_spain_la_liga,La Liga - Spain,2024-05-05T16:30:00Z,Valencia,Alavés,williamhill,William Hill,2.0,4.2,3.1,2.62,1.44,0.0,0.0
+815ece4e6f2604330736f983af0f590e,soccer_spain_la_liga,La Liga - Spain,2024-05-05T19:00:00Z,Rayo Vallecano,Almería,williamhill,William Hill,1.57,5.5,4.2,1.85,1.85,0.0,0.0
+c05f6d7c19dd65b0afdf332b80bed28d,soccer_spain_la_liga,La Liga - Spain,2024-05-05T19:00:00Z,Sevilla,Granada CF,williamhill,William Hill,1.5,6.0,4.33,1.8,1.91,0.0,0.0
+0b15d03780753b0cdcc2abe20c55955d,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-03T18:30:00Z,TSG Hoffenheim,RB Leipzig,williamhill,William Hill,4.6,1.57,4.75,1.33,3.25,0.0,0.0
+40b85ee6a76502cca96cbeba693217cc,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-04T13:30:00Z,Borussia Dortmund,Augsburg,williamhill,William Hill,1.62,4.4,4.6,1.33,3.25,0.0,0.0
+1273a88dee66de528297deeaae38e9ca,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-04T13:30:00Z,VfB Stuttgart,Bayern Munich,williamhill,William Hill,2.2,2.8,4.0,1.44,2.62,0.0,0.0
+a35bcfb065f42859171bb972ec5a752f,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-04T13:30:00Z,Werder Bremen,Borussia Monchengladbach,williamhill,William Hill,2.3,2.75,3.8,1.53,2.38,0.0,0.0
+75d02f5f0b5ebfd819cc8f13d68ab24a,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-04T13:30:00Z,VfL Wolfsburg,SV Darmstadt 98,williamhill,William Hill,1.36,7.5,5.0,1.57,2.3,0.0,0.0
+d0a58ad859313943b1690354465cc692,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-04T16:30:00Z,FC Koln,SC Freiburg,williamhill,William Hill,2.5,2.6,3.6,1.73,2.0,0.0,0.0
+0584ef5a65d8fdf6aeaa6c62ccf52b91,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-05T13:30:00Z,Union Berlin,VfL Bochum,williamhill,William Hill,1.91,3.8,3.6,1.91,1.8,0.0,0.0
+811fbfebbf7a29fbebcb9ab278074226,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-05T15:30:00Z,Eintracht Frankfurt,Bayer Leverkusen,williamhill,William Hill,3.3,2.05,3.7,1.73,2.0,0.0,0.0
+c1dfaa33ea25b482bc67bc1ce40589bf,soccer_germany_bundesliga,Bundesliga - Germany,2024-05-05T17:30:00Z,FC Heidenheim,FSV Mainz 05,williamhill,William Hill,3.2,2.1,3.75,1.67,2.1,0.0,0.0
