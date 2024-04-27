@@ -48,6 +48,19 @@ def fill_h2h_bins(bins, match_score, home_win_bin_index, away_win_bin_index, dra
 
     return bins    
 
+# It's the opposite of the previous method when only_home = True 
+def fill_h2h_bins_for_away_events(bins, match_score, home_win_bin_index, away_win_bin_index, draw_bin_index
+              , home_win_odd, away_win_odd, draw_odd):
+        
+    if (away_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
+        bins[away_win_bin_index].append([1./away_win_odd, match_score == "2"])
+
+    if (draw_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT    
+        bins[draw_bin_index].append([1./draw_odd, match_score == "X"])
+
+    return bins  
+    
+
 def fill_totals_bins(bins, match_total_goals, over_2_5_bin_index, under_2_5_bin_index
               , over_2_5_odd, under_2_5_odd):
 
