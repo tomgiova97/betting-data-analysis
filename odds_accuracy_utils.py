@@ -60,6 +60,34 @@ def fill_h2h_bins_for_away_events(bins, match_score, home_win_bin_index, away_wi
 
     return bins  
     
+# The two following methods do the same as the two previous ones but using probabiities
+# for the expected number of events
+def fill_h2h_bins_by_probs(bins, match_score, home_win_bin_index, away_win_bin_index, draw_bin_index
+              , home_win_prob, away_win_prob, draw_prob, only_home = False):
+
+    if (home_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
+        bins[home_win_bin_index].append([home_win_prob, match_score == "1"])
+
+    if ((not only_home) and away_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
+        bins[away_win_bin_index].append([away_win_prob, match_score == "2"])
+
+    if (draw_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT    
+        bins[draw_bin_index].append([draw_prob, match_score == "X"])
+
+    return bins    
+
+# It's the opposite of the previous method when only_home = True 
+def fill_h2h_bins_for_away_events_by_probs(bins, match_score, home_win_bin_index, away_win_bin_index, draw_bin_index
+              , home_win_prob, away_win_prob, draw_prob):
+        
+    if (away_win_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT
+        bins[away_win_bin_index].append([away_win_prob, match_score == "2"])
+
+    if (draw_bin_index!=None): # Can be None if odd is higher than UPP_ODD_LIMIT    
+        bins[draw_bin_index].append([draw_prob, match_score == "X"])
+
+    return bins  
+
 
 def fill_totals_bins(bins, match_total_goals, over_2_5_bin_index, under_2_5_bin_index
               , over_2_5_odd, under_2_5_odd):
